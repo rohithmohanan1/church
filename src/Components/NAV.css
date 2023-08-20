@@ -1,0 +1,89 @@
+
+.NAV_NAV {
+	width: 819px;
+	height: 24px;
+}
+.NAV_NAV .HOME {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 5.738705738705739%;
+	height: 100%;
+	color: rgba(64,64,64,1.00);
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 24px;
+}
+.NAV_NAV .NEWS {
+	position: absolute;
+	left: 97px;
+	top: 0px;
+	width: 5.616605616605617%;
+	height: 100%;
+	color: rgba(64,64,64,1.00);
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 24px;
+}
+.NAV_NAV .HISTORY {
+	position: absolute;
+	left: 193px;
+	top: 0px;
+	width: 8.18070818070818%;
+	height: 100%;
+	color: rgba(64,64,64,1.00);
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 24px;
+}
+.NAV_NAV .ABOUTUS {
+	position: absolute;
+	left: 612px;
+	top: 0px;
+	width: 9.645909645909647%;
+	height: 100%;
+	color: rgba(64,64,64,1.00);
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 24px;
+}
+.NAV_NAV .CONTACT {
+	position: absolute;
+	left: 741px;
+	top: 0px;
+	width: 9.645909645909647%;
+	height: 100%;
+	color: rgba(64,64,64,1.00);
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 24px;
+}
+.NAV_NAV .ONLINEOFFERING {
+	position: absolute;
+	left: 426px;
+	top: 0px;
+	width: 16.605616605616603%;
+	height: 100%;
+	color: rgba(64,64,64,1.00);
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 24px;
+}
+.NAV_NAV .GALLERY {
+	position: absolute;
+	left: 310px;
+	top: 0px;
+	width: 8.058608058608058%;
+	height: 100%;
+	color: rgba(64,64,64,1.00);
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 24px;
+}

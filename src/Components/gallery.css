@@ -1,0 +1,611 @@
+
+.gallery_gallery {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.gallery_gallery .Rectangle1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1436.3999999999999px;
+	height: 95px;
+	background: rgba(255,178,178,1.00);
+}
+.gallery_gallery .LOGO {
+	position: absolute;
+	left: 28.5px;
+	top: 26.599999999999998px;
+	width: 81.7px;
+	height: 42.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 28.5px;
+	font-weight: 900;
+	line-height: 42.75px;
+}
+.gallery_gallery .NAV {
+	position: absolute;
+	left: 51.55257936507936%;
+	top: 36.1px;
+	transform: translate(-50%, 0);
+	width: 778.05px;
+	height: 22.799999999999997px;
+}
+.gallery_gallery .NAV .HOME {
+	width: 5.738705738705739%;
+	height: 100%;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.gallery_gallery .NAV .NEWS {
+	width: 5.616605616605617%;
+	height: 100%;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.gallery_gallery .NAV .HISTORY {
+	width: 8.18070818070818%;
+	height: 100%;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.gallery_gallery .NAV .ABOUTUS {
+	width: 9.645909645909647%;
+	height: 100%;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.gallery_gallery .NAV .CONTACT {
+	width: 9.645909645909647%;
+	height: 100%;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.gallery_gallery .NAV .ONLINEOFFERING {
+	width: 16.605616605616603%;
+	height: 100%;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.gallery_gallery .NAV .GALLERY {
+	width: 8.058608058608058%;
+	height: 100%;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.gallery_gallery .GALLERY_1 {
+	position: absolute;
+	left: 47.5%;
+	top: 192.85px;
+	transform: translate(-50%, 0);
+	width: 148.2px;
+	height: 51.3px;
+	color: rgba(34,34,34,1.00);
+	font-family: Poppins;
+	font-size: 34.199999999999996px;
+	font-weight: 700;
+	line-height: 51.3px;
+}
+.gallery_gallery .CHURCH {
+	position: absolute;
+	left: 47.531415343915334%;
+	top: 310.65px;
+	transform: translate(-50%, 0);
+	width: 99.75px;
+	height: 34.199999999999996px;
+	color: rgba(34,34,34,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 700;
+	line-height: 34.199999999999996px;
+}
+.gallery_gallery .EVENTS {
+	position: absolute;
+	left: 47.46858465608465%;
+	top: 875.9px;
+	transform: translate(-50%, 0);
+	width: 86.45px;
+	height: 34.199999999999996px;
+	color: rgba(34,34,34,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 700;
+	line-height: 34.199999999999996px;
+}
+.gallery_gallery .Rectangle2 {
+	position: absolute;
+	left: 0px;
+	top: 1512.3999999999999px;
+	width: 1436.3999999999999px;
+	height: 577.6px;
+	background: rgba(34,34,34,1.00);
+}
+.gallery_gallery .LOGO_1 {
+	position: absolute;
+	left: 145.35px;
+	top: 1766.05px;
+	width: 133.95px;
+	height: 71.25px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 47.5px;
+	font-weight: 700;
+	line-height: 71.25px;
+}
+.gallery_gallery .Addresslocation {
+	position: absolute;
+	left: 360.05px;
+	top: 1724.25px;
+	width: 95px;
+	height: 45.599999999999994px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 22.799999999999997px;
+}
+.gallery_gallery ._123456789987654321 {
+	position: absolute;
+	left: 360.05px;
+	top: 1830.6499999999999px;
+	width: 85.5px;
+	height: 45.599999999999994px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 22.799999999999997px;
+}
+.gallery_gallery .namegmailcom {
+	position: absolute;
+	left: 360.05px;
+	top: 1937.05px;
+	width: 171.95px;
+	height: 22.799999999999997px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 22.799999999999997px;
+}
+.gallery_gallery .ContactUs {
+	position: absolute;
+	left: 360.05px;
+	top: 1618.8px;
+	width: 127.3px;
+	height: 34.199999999999996px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 34.199999999999996px;
+}
+.gallery_gallery .UsefulLinks {
+	position: absolute;
+	left: 718.1999999999999px;
+	top: 1618.8px;
+	width: 133px;
+	height: 34.199999999999996px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 34.199999999999996px;
+}
+.gallery_gallery .SocialMedia {
+	position: absolute;
+	left: 1037.3999999999999px;
+	top: 1618.8px;
+	width: 147.25px;
+	height: 34.199999999999996px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 34.199999999999996px;
+}
+.gallery_gallery .Support {
+	position: absolute;
+	left: 1037.3999999999999px;
+	top: 1752.75px;
+	width: 92.14999999999999px;
+	height: 34.199999999999996px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 34.199999999999996px;
+}
+.gallery_gallery .Address {
+	position: absolute;
+	left: 360.05px;
+	top: 1692.8999999999999px;
+	width: 71.25px;
+	height: 25.65px;
+	color: rgba(255,178,178,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 500;
+	line-height: 25.65px;
+}
+.gallery_gallery .Phone {
+	position: absolute;
+	left: 360.05px;
+	top: 1799.3px;
+	width: 54.15px;
+	height: 25.65px;
+	color: rgba(255,178,178,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 500;
+	line-height: 25.65px;
+}
+.gallery_gallery .Email {
+	position: absolute;
+	left: 360.05px;
+	top: 1905.6999999999998px;
+	width: 47.5px;
+	height: 25.65px;
+	color: rgba(255,178,178,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 500;
+	line-height: 25.65px;
+}
+.gallery_gallery .HOME_1 {
+	position: absolute;
+	left: 718.1999999999999px;
+	top: 1692.8999999999999px;
+	width: 49.4px;
+	height: 25.65px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 400;
+	line-height: 25.65px;
+}
+.gallery_gallery .NEWS_1 {
+	position: absolute;
+	left: 718.1999999999999px;
+	top: 1748.9499999999998px;
+	width: 48.449999999999996px;
+	height: 25.65px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 400;
+	line-height: 25.65px;
+}
+.gallery_gallery .GALLERY_2 {
+	position: absolute;
+	left: 718.1999999999999px;
+	top: 1805px;
+	width: 69.35px;
+	height: 25.65px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 400;
+	line-height: 25.65px;
+}
+.gallery_gallery .Contact {
+	position: absolute;
+	left: 1037.3999999999999px;
+	top: 1791.6999999999998px;
+	width: 70.3px;
+	height: 25.65px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 400;
+	line-height: 25.65px;
+}
+.gallery_gallery .ABOUTUS_1 {
+	position: absolute;
+	left: 718.1999999999999px;
+	top: 1861.05px;
+	width: 82.64999999999999px;
+	height: 25.65px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 400;
+	line-height: 25.65px;
+}
+.gallery_gallery .Subtract {
+	position: absolute;
+	left: 1037.3999999999999px;
+	top: 1688.7330810546873px;
+	width: 34.1781982421875px;
+	height: 25.039318847656247px;
+}
+.gallery_gallery .Subtract_1 {
+	position: absolute;
+	left: 1220.3232421875px;
+	top: 1689.3574462890624px;
+	width: 28.0245361328125px;
+	height: 24.1169189453125px;
+}
+.gallery_gallery .Subtract_2 {
+	position: absolute;
+	left: 1104.8277343749999px;
+	top: 1685.6012817382812px;
+	width: 16.232568359374998px;
+	height: 31.299090576171874px;
+}
+.gallery_gallery .Subtract_3 {
+	position: absolute;
+	left: 1154.31123046875px;
+	top: 1684.35px;
+	width: 32.7624755859375px;
+	height: 34.18353271484375px;
+}
+.gallery_gallery ._2023AllRightsReservedby {
+	position: absolute;
+	left: 47.5%;
+	top: 2040.6px;
+	transform: translate(-50%, 0);
+	width: 224.2px;
+	height: 22.799999999999997px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.gallery_gallery .Rectangle9 {
+	position: absolute;
+	left: 28.5px;
+	top: 395.2px;
+	width: 330.59999999999997px;
+	height: 330.59999999999997px;
+	background: rgba(196,196,196,1.00);
+	border-radius: 19px;
+}
+.gallery_gallery .Rectangle13 {
+	position: absolute;
+	left: 28.5px;
+	top: 960.4499999999999px;
+	width: 330.59999999999997px;
+	height: 330.59999999999997px;
+	background: rgba(196,196,196,1.00);
+	border-radius: 19px;
+}
+.gallery_gallery .Rectangle11 {
+	position: absolute;
+	left: 727.6999999999999px;
+	top: 395.2px;
+	width: 330.59999999999997px;
+	height: 330.59999999999997px;
+	background: rgba(196,196,196,1.00);
+	border-radius: 19px;
+}
+.gallery_gallery .Rectangle14 {
+	position: absolute;
+	left: 727.6999999999999px;
+	top: 960.4499999999999px;
+	width: 330.59999999999997px;
+	height: 330.59999999999997px;
+	background: rgba(196,196,196,1.00);
+	border-radius: 19px;
+}
+.gallery_gallery .Rectangle10 {
+	position: absolute;
+	left: 378.09999999999997px;
+	top: 395.2px;
+	width: 330.59999999999997px;
+	height: 330.59999999999997px;
+	background: rgba(196,196,196,1.00);
+	border-radius: 19px;
+}
+.gallery_gallery .Rectangle15 {
+	position: absolute;
+	left: 378.09999999999997px;
+	top: 960.4499999999999px;
+	width: 330.59999999999997px;
+	height: 330.59999999999997px;
+	background: rgba(196,196,196,1.00);
+	border-radius: 19px;
+}
+.gallery_gallery .Rectangle12 {
+	position: absolute;
+	left: 1077.3px;
+	top: 395.2px;
+	width: 330.59999999999997px;
+	height: 330.59999999999997px;
+	background: rgba(196,196,196,1.00);
+	border-radius: 19px;
+}
+.gallery_gallery .Rectangle16 {
+	position: absolute;
+	left: 1077.3px;
+	top: 960.4499999999999px;
+	width: 330.59999999999997px;
+	height: 330.59999999999997px;
+	background: rgba(196,196,196,1.00);
+	border-radius: 19px;
+}
+.gallery_gallery .Rectangle8 {
+	position: absolute;
+	left: 47.24867724867725%;
+	top: 754.3px;
+	transform: translate(-50%, 0);
+	width: 190px;
+	height: 47.5px;
+	background: rgba(255,147,147,1.00);
+	border-radius: 28.5px;
+}
+.gallery_gallery .Rectangle17 {
+	position: absolute;
+	left: 47.5%;
+	top: 1326.2px;
+	transform: translate(-50%, 0);
+	width: 190px;
+	height: 47.5px;
+	background: rgba(255,147,147,1.00);
+	border-radius: 28.5px;
+}
+.gallery_gallery .viewAll {
+	position: absolute;
+	left: 47.28009259259259%;
+	top: 760.9499999999999px;
+	transform: translate(-50%, 0);
+	width: 86.45px;
+	height: 34.199999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 34.199999999999996px;
+}
+.gallery_gallery .viewAll_1 {
+	position: absolute;
+	left: 47.531415343915334%;
+	top: 1332.85px;
+	transform: translate(-50%, 0);
+	width: 86.45px;
+	height: 34.199999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 34.199999999999996px;
+}
+.gallery_gallery .LOGO_2 {
+	position: absolute;
+	left: 47.5%;
+	top: 122.55px;
+	transform: translate(-50%, 0);
+	width: 81.7px;
+	height: 42.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 28.5px;
+	font-weight: 900;
+	line-height: 42.75px;
+}
+.gallery_gallery .Rectangle3 {
+	position: absolute;
+	left: 0px;
+	top: 294.5px;
+	width: 1436.3999999999999px;
+	height: 57px;
+	background: rgba(255,178,178,0.25);
+}
+.gallery_gallery .Rectangle18 {
+	position: absolute;
+	left: 0px;
+	top: 869.25px;
+	width: 1436.3999999999999px;
+	height: 47.5px;
+	background: rgba(255,178,178,0.25);
+}
+.gallery_gallery .PHOTO {
+	position: absolute;
+	left: 152px;
+	top: 535.8px;
+	width: 82.64999999999999px;
+	height: 34.199999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 900;
+	line-height: 34.199999999999996px;
+}
+.gallery_gallery .PHOTO_1 {
+	position: absolute;
+	left: 501.59999999999997px;
+	top: 535.8px;
+	width: 82.64999999999999px;
+	height: 34.199999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 900;
+	line-height: 34.199999999999996px;
+}
+.gallery_gallery .PHOTO_2 {
+	position: absolute;
+	left: 859.75px;
+	top: 535.8px;
+	width: 82.64999999999999px;
+	height: 34.199999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 900;
+	line-height: 34.199999999999996px;
+}
+.gallery_gallery .PHOTO_3 {
+	position: absolute;
+	left: 1209.35px;
+	top: 535.8px;
+	width: 82.64999999999999px;
+	height: 34.199999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 900;
+	line-height: 34.199999999999996px;
+}
+.gallery_gallery .PHOTO_4 {
+	position: absolute;
+	left: 1200.8px;
+	top: 1108.6499999999999px;
+	width: 82.64999999999999px;
+	height: 34.199999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 900;
+	line-height: 34.199999999999996px;
+}
+.gallery_gallery .PHOTO_5 {
+	position: absolute;
+	left: 851.1999999999999px;
+	top: 1108.6499999999999px;
+	width: 82.64999999999999px;
+	height: 34.199999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 900;
+	line-height: 34.199999999999996px;
+}
+.gallery_gallery .PHOTO_6 {
+	position: absolute;
+	left: 501.59999999999997px;
+	top: 1108.6499999999999px;
+	width: 82.64999999999999px;
+	height: 34.199999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 900;
+	line-height: 34.199999999999996px;
+}
+.gallery_gallery .PHOTO_7 {
+	position: absolute;
+	left: 152px;
+	top: 1108.6499999999999px;
+	width: 82.64999999999999px;
+	height: 34.199999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 900;
+	line-height: 34.199999999999996px;
+}

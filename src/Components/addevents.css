@@ -1,0 +1,542 @@
+
+.addevents_addevents {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(241,241,241,1.00);
+}
+.addevents_addevents .Rectangle532 {
+	position: absolute;
+	left: 0px;
+	top: -0.95px;
+	width: 242.25px;
+	height: 1089.6499999999999px;
+	background: rgba(255,255,255,1.00);
+}
+.addevents_addevents .Rectangle553 {
+	position: absolute;
+	left: 25.65px;
+	top: 359.09999999999997px;
+	width: 209px;
+	height: 38px;
+	background: rgba(36,36,36,1.00);
+	border-radius: 9.5px;
+}
+.addevents_addevents .dashboard {
+	position: absolute;
+	left: 64.6px;
+	top: 13.595113438045376%;
+	transform: translate(0, -50%);
+	width: 79.8px;
+	height: 26.599999999999998px;
+	color: rgba(255,147,147,1.00);
+	font-family: Inter;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 26.599999999999998px;
+}
+.addevents_addevents .dash {
+	position: absolute;
+	left: 28.5px;
+	top: 146.29999999999998px;
+	width: 19px;
+	height: 19px;
+}
+.addevents_addevents .dash .Fill1 {
+	position: absolute;
+	left: 10.96025390625px;
+	top: 0px;
+	width: 42.314453125%;
+	height: 42.6727294921875%;
+	mix-blend-mode: normal;
+}
+.addevents_addevents .dash .CombinedShape {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.addevents_addevents ._3User {
+	position: absolute;
+	left: 28.5px;
+	top: 222.29999999999998px;
+	width: 20.9px;
+	height: 15.2px;
+}
+.addevents_addevents ._3User .Fill1_1 {
+	position: absolute;
+	left: 4.3584960937499995px;
+	top: 10.012921142578124px;
+	width: 57.83025568181818%;
+	height: 34.125518798828125%;
+}
+.addevents_addevents ._3User .Fill3 {
+	position: absolute;
+	left: 6.4013671875px;
+	top: 0px;
+	width: 38.26349431818182%;
+	height: 52.91900634765625%;
+	mix-blend-mode: normal;
+}
+.addevents_addevents ._3User .Fill6 {
+	position: absolute;
+	left: 15.0701171875px;
+	top: 0.6712158203124999px;
+	width: 19.753196022727273%;
+	height: 44.602203369140625%;
+	mix-blend-mode: normal;
+}
+.addevents_addevents ._3User .Fill8 {
+	position: absolute;
+	left: 15.582226562499999px;
+	top: 8.765698242187499px;
+	width: 25.443892045454547%;
+	height: 29.148101806640625%;
+}
+.addevents_addevents ._3User .Fill11 {
+	position: absolute;
+	left: 1.7033203124999998px;
+	top: 0.67144775390625px;
+	width: 19.744318181818183%;
+	height: 44.602203369140625%;
+	mix-blend-mode: normal;
+}
+.addevents_addevents ._3User .Fill13 {
+	position: absolute;
+	left: 0px;
+	top: 8.766162109375px;
+	width: 25.443892045454547%;
+	height: 29.143524169921875%;
+}
+.addevents_addevents .Menu {
+	position: absolute;
+	left: 65.55px;
+	top: 20.06108202443281%;
+	transform: translate(0, -50%);
+	width: 54.15px;
+	height: 26.599999999999998px;
+	color: rgba(255,147,147,1.00);
+	font-family: Inter;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 26.599999999999998px;
+}
+.addevents_addevents .Shape {
+	position: absolute;
+	left: 199.5px;
+	top: 224.2px;
+	width: 0.4629629629629629%;
+	height: 1.0471204188481675%;
+}
+.addevents_addevents .Document {
+	position: absolute;
+	left: 28.5px;
+	top: 294.5px;
+	width: 17.099999999999998px;
+	height: 19px;
+}
+.addevents_addevents .Document .Path {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	mix-blend-mode: normal;
+}
+.addevents_addevents .Document .CombinedShape_1 {
+	position: absolute;
+	left: 4.000390625px;
+	top: 4.417523193359375px;
+	width: 52.72352430555556%;
+	height: 53.3319091796875%;
+}
+.addevents_addevents .Menu_1 {
+	position: absolute;
+	left: 63.65px;
+	top: 26.527050610820243%;
+	transform: translate(0, -50%);
+	width: 66.5px;
+	height: 26.599999999999998px;
+	color: rgba(255,147,147,1.00);
+	font-family: Inter;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 26.599999999999998px;
+}
+.addevents_addevents .Shape_1 {
+	position: absolute;
+	left: 199.5px;
+	top: 298.3px;
+	width: 0.4629629629629629%;
+	height: 1.0471204188481675%;
+}
+.addevents_addevents .Filter {
+	position: absolute;
+	left: 30.4px;
+	top: 369.54999999999995px;
+	width: 19px;
+	height: 16.888940429687498px;
+}
+.addevents_addevents .Filter .Fill1_2 {
+	position: absolute;
+	left: 0px;
+	top: 12.310107421875px;
+	width: 47.958984375%;
+	height: 16.664835617567086%;
+	mix-blend-mode: normal;
+}
+.addevents_addevents .Filter .Fill4 {
+	position: absolute;
+	left: 9.8896484375px;
+	top: 1.8033996582031249px;
+	width: 47.94921875%;
+	height: 16.658655826856%;
+	mix-blend-mode: normal;
+}
+.addevents_addevents .Filter .Fill6_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 34.384765625%;
+	height: 38.01463923755116%;
+}
+.addevents_addevents .Filter .Fill9 {
+	position: absolute;
+	left: 12.466894531249999px;
+	top: 10.4685546875px;
+	width: 34.384765625%;
+	height: 38.01463923755116%;
+}
+.addevents_addevents .report {
+	position: absolute;
+	left: 66.5px;
+	top: 32.99301919720768%;
+	transform: translate(0, -50%);
+	width: 48.449999999999996px;
+	height: 26.599999999999998px;
+	color: rgba(255,147,147,1.00);
+	font-family: Inter;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 26.599999999999998px;
+}
+.addevents_addevents .Shape_2 {
+	position: absolute;
+	left: 198.54999999999998px;
+	top: 374.775px;
+	width: 0.7936507936507936%;
+	height: 0.6108202443280977%;
+}
+.addevents_addevents .Path_1 {
+	position: absolute;
+	left: 34.77890625px;
+	top: 479.92116699218747px;
+	width: 0.38184110449735453%;
+	height: 0.4930213275796248%;
+}
+.addevents_addevents .Path_2 {
+	position: absolute;
+	left: 28.5px;
+	top: 473.10011596679686px;
+	width: 1.2566137566137565%;
+	height: 1.7452006980802792%;
+	mix-blend-mode: normal;
+}
+.addevents_addevents .Menu_2 {
+	position: absolute;
+	left: 64.125px;
+	top: 42.11169284467714%;
+	transform: translate(0, -50%);
+	width: 59.849999999999994px;
+	height: 26.599999999999998px;
+	color: rgba(255,147,147,1.00);
+	font-family: Inter;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 26.599999999999998px;
+}
+.addevents_addevents .Shape_3 {
+	position: absolute;
+	left: 199.5px;
+	top: 476.9px;
+	width: 0.4629629629629629%;
+	height: 1.0471204188481675%;
+}
+.addevents_addevents .Rectangle533 {
+	position: absolute;
+	left: 0px;
+	top: -0.95px;
+	width: 1436.3999999999999px;
+	height: 95px;
+	background: rgba(255,255,255,1.00);
+}
+.addevents_addevents .LOGO {
+	position: absolute;
+	left: 4.1782407407407405%;
+	top: 29.45px;
+	transform: translate(-50%, 0);
+	width: 65.55px;
+	height: 34.199999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 900;
+	line-height: 34.199999999999996px;
+}
+.addevents_addevents .IconlyBulkNotification {
+	position: absolute;
+	left: 1192.25px;
+	top: 35.625px;
+	width: 1.5873015873015872%;
+	height: 2.094240837696335%;
+}
+.addevents_addevents .IconlyBulkNotification .Notification {
+	position: absolute;
+	left: 3.3249999999999997px;
+	top: 1.9px;
+	width: 16.15px;
+	height: 19px;
+}
+.addevents_addevents .IconlyBulkNotification .Notification .Fill1_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 79.9664306640625%;
+}
+.addevents_addevents .IconlyBulkNotification .Notification .Fill4_1 {
+	position: absolute;
+	left: 5.29365234375px;
+	top: 16.290899658203124px;
+	width: 34.260110294117645%;
+	height: 14.2584228515625%;
+	mix-blend-mode: normal;
+}
+.addevents_addevents .IconlyBulkMessage {
+	position: absolute;
+	left: 1230.25px;
+	top: 35.625px;
+	width: 1.5873015873015872%;
+	height: 2.094240837696335%;
+}
+.addevents_addevents .IconlyBulkMessage .Group {
+	position: absolute;
+	left: 1.9px;
+	top: 2.849652099609375px;
+	width: 19px;
+	height: 17.100579833984373px;
+}
+.addevents_addevents .IconlyBulkMessage .Group .Fill1_4 {
+	position: absolute;
+	left: 0px;
+	top: 5.507611083984375px;
+	width: 100%;
+	height: 67.79284014078299%;
+	mix-blend-mode: normal;
+}
+.addevents_addevents .IconlyBulkMessage .Group .Fill4_2 {
+	position: absolute;
+	left: 0.4787109375px;
+	top: 0px;
+	width: 95.37109375%;
+	height: 57.331090932517746%;
+}
+.addevents_addevents .User {
+	position: absolute;
+	left: 1268.25px;
+	top: 25.65px;
+	width: 102.6px;
+	height: 42.75px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.addevents_addevents .User .BearedGuy02min1 {
+	position: relative;
+	flex: none;
+	margin-right: 15.2px;
+	width: 42.75px;
+	height: 42.75px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 28.5px;
+}
+.addevents_addevents .User .Frame270 {
+	position: relative;
+	flex: none;
+	margin-right: 15.2px;
+	width: 44.65px;
+	height: 26.599999999999998px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.addevents_addevents .User .Frame270 .AustinRobertson {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 100%;
+	height: 26.599999999999998px;
+	color: rgba(35,45,66,1.00);
+	font-family: Inter;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 26.599999999999998px;
+}
+.addevents_addevents .Rectangle554 {
+	position: absolute;
+	left: 261.25px;
+	top: 154.85px;
+	width: 1146.6499999999999px;
+	height: 593.75px;
+	background: rgba(255,255,255,1.00);
+}
+.addevents_addevents .Rectangle555 {
+	position: absolute;
+	left: 31.349999999999998px;
+	top: 433.2px;
+	width: 142.5px;
+	height: 28.5px;
+	background: rgba(53,53,53,1.00);
+	border-radius: 9.5px;
+}
+.addevents_addevents .Ellipse139 {
+	position: absolute;
+	left: 378.09999999999997px;
+	top: 266.95px;
+	width: 257.45px;
+	height: 257.45px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 50%;
+}
+.addevents_addevents .PHOTO {
+	position: absolute;
+	left: 465.5px;
+	top: 374.29999999999995px;
+	width: 82.64999999999999px;
+	height: 34.199999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 900;
+	line-height: 34.199999999999996px;
+}
+.addevents_addevents .Rectangle548 {
+	position: absolute;
+	left: 678.3px;
+	top: 243.2px;
+	width: 521.55px;
+	height: 47.5px;
+	border-radius: 19px;
+	border: 2px solid rgba(148.9624947309494,147.721146941185,147.721146941185,1);
+	box-sizing: border-box;
+}
+.addevents_addevents .Rectangle549 {
+	position: absolute;
+	left: 678.3px;
+	top: 338.2px;
+	width: 521.55px;
+	height: 47.5px;
+	border-radius: 19px;
+	border: 2px solid rgba(148.9624947309494,147.721146941185,147.721146941185,1);
+	box-sizing: border-box;
+}
+.addevents_addevents .Rectangle556 {
+	position: absolute;
+	left: 678.3px;
+	top: 433.2px;
+	width: 521.55px;
+	height: 110.19999999999999px;
+	border-radius: 19px;
+	border: 2px solid rgba(148.9624947309494,147.721146941185,147.721146941185,1);
+	box-sizing: border-box;
+}
+.addevents_addevents .eventName {
+	position: absolute;
+	left: 706.8px;
+	top: 253.64999999999998px;
+	width: 93.1px;
+	height: 26.599999999999998px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 26.599999999999998px;
+}
+.addevents_addevents .date {
+	position: absolute;
+	left: 706.8px;
+	top: 348.65px;
+	width: 36.1px;
+	height: 26.599999999999998px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 26.599999999999998px;
+}
+.addevents_addevents .discription {
+	position: absolute;
+	left: 706.8px;
+	top: 443.65px;
+	width: 79.8px;
+	height: 26.599999999999998px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 26.599999999999998px;
+}
+.addevents_addevents .Rectangle552 {
+	position: absolute;
+	left: 844.55px;
+	top: 590.9px;
+	width: 190px;
+	height: 47.5px;
+	background: rgba(255,147,147,1.00);
+	border-radius: 28.5px;
+}
+.addevents_addevents .Add {
+	position: absolute;
+	left: 923.4px;
+	top: 601.35px;
+	width: 31.349999999999998px;
+	height: 26.599999999999998px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 26.599999999999998px;
+}
+.addevents_addevents .Menu_3 {
+	position: absolute;
+	left: 66.5px;
+	top: 36.51614310645724%;
+	transform: translate(0, -50%);
+	width: 61.75px;
+	height: 23.75px;
+	color: rgba(139,139,139,1.00);
+	font-family: Inter;
+	font-size: 13.299999999999999px;
+	font-weight: 400;
+	line-height: 23.275px;
+}
+.addevents_addevents .Menu_4 {
+	position: absolute;
+	left: 66.5px;
+	top: 39.003054101221636%;
+	transform: translate(0, -50%);
+	width: 72.2px;
+	height: 23.75px;
+	color: rgba(139,139,139,1.00);
+	font-family: Inter;
+	font-size: 13.299999999999999px;
+	font-weight: 400;
+	line-height: 23.275px;
+}

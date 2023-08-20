@@ -1,0 +1,577 @@
+
+.addadmin_addadmin {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(241,241,241,1.00);
+}
+.addadmin_addadmin .Rectangle532 {
+	position: absolute;
+	left: 0px;
+	top: -0.95px;
+	width: 242.25px;
+	height: 1089.6499999999999px;
+	background: rgba(255,255,255,1.00);
+}
+.addadmin_addadmin .Rectangle553 {
+	position: absolute;
+	left: 19px;
+	top: 211.85px;
+	width: 209px;
+	height: 38px;
+	background: rgba(36,36,36,1.00);
+	border-radius: 9.5px;
+}
+.addadmin_addadmin .Rectangle555 {
+	position: absolute;
+	left: 31.349999999999998px;
+	top: 299.25px;
+	width: 142.5px;
+	height: 28.5px;
+	background: rgba(53,53,53,1.00);
+	border-radius: 9.5px;
+}
+.addadmin_addadmin .dashboard {
+	position: absolute;
+	left: 64.6px;
+	top: 13.595113438045376%;
+	transform: translate(0, -50%);
+	width: 79.8px;
+	height: 26.599999999999998px;
+	color: rgba(255,147,147,1.00);
+	font-family: Inter;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 26.599999999999998px;
+}
+.addadmin_addadmin .dash {
+	position: absolute;
+	left: 28.5px;
+	top: 146.29999999999998px;
+	width: 19px;
+	height: 19px;
+}
+.addadmin_addadmin .dash .Fill1 {
+	position: absolute;
+	left: 10.96025390625px;
+	top: 0px;
+	width: 42.314453125%;
+	height: 42.6727294921875%;
+	mix-blend-mode: normal;
+}
+.addadmin_addadmin .dash .CombinedShape {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.addadmin_addadmin ._3User {
+	position: absolute;
+	left: 28.5px;
+	top: 222.29999999999998px;
+	width: 20.9px;
+	height: 15.2px;
+}
+.addadmin_addadmin ._3User .Fill1_1 {
+	position: absolute;
+	left: 4.3584960937499995px;
+	top: 10.012921142578124px;
+	width: 57.83025568181818%;
+	height: 34.125518798828125%;
+}
+.addadmin_addadmin ._3User .Fill3 {
+	position: absolute;
+	left: 6.4013671875px;
+	top: 0px;
+	width: 38.26349431818182%;
+	height: 52.91900634765625%;
+	mix-blend-mode: normal;
+}
+.addadmin_addadmin ._3User .Fill6 {
+	position: absolute;
+	left: 15.0701171875px;
+	top: 0.6712158203124999px;
+	width: 19.753196022727273%;
+	height: 44.602203369140625%;
+	mix-blend-mode: normal;
+}
+.addadmin_addadmin ._3User .Fill8 {
+	position: absolute;
+	left: 15.582226562499999px;
+	top: 8.765698242187499px;
+	width: 25.443892045454547%;
+	height: 29.148101806640625%;
+}
+.addadmin_addadmin ._3User .Fill11 {
+	position: absolute;
+	left: 1.7033203124999998px;
+	top: 0.67144775390625px;
+	width: 19.744318181818183%;
+	height: 44.602203369140625%;
+	mix-blend-mode: normal;
+}
+.addadmin_addadmin ._3User .Fill13 {
+	position: absolute;
+	left: 0px;
+	top: 8.766162109375px;
+	width: 25.443892045454547%;
+	height: 29.143524169921875%;
+}
+.addadmin_addadmin .Menu {
+	position: absolute;
+	left: 65.55px;
+	top: 20.06108202443281%;
+	transform: translate(0, -50%);
+	width: 54.15px;
+	height: 26.599999999999998px;
+	color: rgba(255,147,147,1.00);
+	font-family: Inter;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 26.599999999999998px;
+}
+.addadmin_addadmin .Menu_1 {
+	position: absolute;
+	left: 65.55px;
+	top: 23.501308900523558%;
+	transform: translate(0, -50%);
+	width: 66.5px;
+	height: 23.75px;
+	color: rgba(139,139,139,1.00);
+	font-family: Inter;
+	font-size: 13.299999999999999px;
+	font-weight: 400;
+	line-height: 23.275px;
+}
+.addadmin_addadmin .Menu_2 {
+	position: absolute;
+	left: 65.55px;
+	top: 27.314572425828967%;
+	transform: translate(0, -50%);
+	width: 76px;
+	height: 23.75px;
+	color: rgba(139,139,139,1.00);
+	font-family: Inter;
+	font-size: 13.299999999999999px;
+	font-weight: 400;
+	line-height: 23.275px;
+}
+.addadmin_addadmin .Shape {
+	position: absolute;
+	left: 197.125px;
+	top: 226.575px;
+	width: 0.7936507936507936%;
+	height: 0.6108202443280977%;
+}
+.addadmin_addadmin .Document {
+	position: absolute;
+	left: 28.5px;
+	top: 349.59999999999997px;
+	width: 17.099999999999998px;
+	height: 19px;
+}
+.addadmin_addadmin .Document .Path {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	mix-blend-mode: normal;
+}
+.addadmin_addadmin .Document .CombinedShape_1 {
+	position: absolute;
+	left: 4.000390625px;
+	top: 4.417523193359375px;
+	width: 52.72352430555556%;
+	height: 53.3319091796875%;
+}
+.addadmin_addadmin .Menu_3 {
+	position: absolute;
+	left: 63.65px;
+	top: 31.335078534031414%;
+	transform: translate(0, -50%);
+	width: 66.5px;
+	height: 26.599999999999998px;
+	color: rgba(255,147,147,1.00);
+	font-family: Inter;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 26.599999999999998px;
+}
+.addadmin_addadmin .Shape_1 {
+	position: absolute;
+	left: 199.5px;
+	top: 353.4px;
+	width: 0.4629629629629629%;
+	height: 1.0471204188481675%;
+}
+.addadmin_addadmin .Filter {
+	position: absolute;
+	left: 30.4px;
+	top: 424.65px;
+	width: 19px;
+	height: 16.888940429687498px;
+}
+.addadmin_addadmin .Filter .Fill1_2 {
+	position: absolute;
+	left: 0px;
+	top: 12.310107421875px;
+	width: 47.958984375%;
+	height: 16.664835617567086%;
+	mix-blend-mode: normal;
+}
+.addadmin_addadmin .Filter .Fill4 {
+	position: absolute;
+	left: 9.8896484375px;
+	top: 1.8033996582031249px;
+	width: 47.94921875%;
+	height: 16.658655826856%;
+	mix-blend-mode: normal;
+}
+.addadmin_addadmin .Filter .Fill6_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 34.384765625%;
+	height: 38.01463923755116%;
+}
+.addadmin_addadmin .Filter .Fill9 {
+	position: absolute;
+	left: 12.466894531249999px;
+	top: 10.4685546875px;
+	width: 34.384765625%;
+	height: 38.01463923755116%;
+}
+.addadmin_addadmin .report {
+	position: absolute;
+	left: 66.5px;
+	top: 37.80104712041884%;
+	transform: translate(0, -50%);
+	width: 81.7px;
+	height: 26.599999999999998px;
+	color: rgba(255,147,147,1.00);
+	font-family: Inter;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 26.599999999999998px;
+}
+.addadmin_addadmin .Shape_2 {
+	position: absolute;
+	left: 200.92499999999998px;
+	top: 427.5px;
+	width: 0.4629629629629629%;
+	height: 1.0471204188481675%;
+}
+.addadmin_addadmin .Path_1 {
+	position: absolute;
+	left: 34.77890625px;
+	top: 504.62116699218745px;
+	width: 0.38184110449735453%;
+	height: 0.4930213275796248%;
+}
+.addadmin_addadmin .Path_2 {
+	position: absolute;
+	left: 28.5px;
+	top: 497.80011596679685px;
+	width: 1.2566137566137565%;
+	height: 1.7452006980802792%;
+	mix-blend-mode: normal;
+}
+.addadmin_addadmin .Menu_4 {
+	position: absolute;
+	left: 64.125px;
+	top: 44.26701570680628%;
+	transform: translate(0, -50%);
+	width: 59.849999999999994px;
+	height: 26.599999999999998px;
+	color: rgba(255,147,147,1.00);
+	font-family: Inter;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 26.599999999999998px;
+}
+.addadmin_addadmin .Shape_3 {
+	position: absolute;
+	left: 199.5px;
+	top: 501.59999999999997px;
+	width: 0.4629629629629629%;
+	height: 1.0471204188481675%;
+}
+.addadmin_addadmin .Rectangle533 {
+	position: absolute;
+	left: 422.75px;
+	top: 658.35px;
+	width: 1436.3999999999999px;
+	height: 95px;
+	background: rgba(255,255,255,1.00);
+}
+.addadmin_addadmin .LOGO {
+	position: absolute;
+	left: 4.1782407407407405%;
+	top: 29.45px;
+	transform: translate(-50%, 0);
+	width: 65.55px;
+	height: 34.199999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 900;
+	line-height: 34.199999999999996px;
+}
+.addadmin_addadmin .IconlyBulkNotification {
+	position: absolute;
+	left: 1192.25px;
+	top: 35.625px;
+	width: 1.5873015873015872%;
+	height: 2.094240837696335%;
+}
+.addadmin_addadmin .IconlyBulkNotification .Notification {
+	position: absolute;
+	left: 3.3249999999999997px;
+	top: 1.9px;
+	width: 16.15px;
+	height: 19px;
+}
+.addadmin_addadmin .IconlyBulkNotification .Notification .Fill1_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 79.9664306640625%;
+}
+.addadmin_addadmin .IconlyBulkNotification .Notification .Fill4_1 {
+	position: absolute;
+	left: 5.29365234375px;
+	top: 16.290899658203124px;
+	width: 34.260110294117645%;
+	height: 14.2584228515625%;
+	mix-blend-mode: normal;
+}
+.addadmin_addadmin .IconlyBulkMessage {
+	position: absolute;
+	left: 1230.25px;
+	top: 35.625px;
+	width: 1.5873015873015872%;
+	height: 2.094240837696335%;
+}
+.addadmin_addadmin .IconlyBulkMessage .Group {
+	position: absolute;
+	left: 1.9px;
+	top: 2.849652099609375px;
+	width: 19px;
+	height: 17.100579833984373px;
+}
+.addadmin_addadmin .IconlyBulkMessage .Group .Fill1_4 {
+	position: absolute;
+	left: 0px;
+	top: 5.507611083984375px;
+	width: 100%;
+	height: 67.79284014078299%;
+	mix-blend-mode: normal;
+}
+.addadmin_addadmin .IconlyBulkMessage .Group .Fill4_2 {
+	position: absolute;
+	left: 0.4787109375px;
+	top: 0px;
+	width: 95.37109375%;
+	height: 57.331090932517746%;
+}
+.addadmin_addadmin .User {
+	position: absolute;
+	left: 1268.25px;
+	top: 25.65px;
+	width: 102.6px;
+	height: 42.75px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.addadmin_addadmin .User .BearedGuy02min1 {
+	position: relative;
+	flex: none;
+	margin-right: 15.2px;
+	width: 42.75px;
+	height: 42.75px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 28.5px;
+}
+.addadmin_addadmin .User .Frame270 {
+	position: relative;
+	flex: none;
+	margin-right: 15.2px;
+	width: 44.65px;
+	height: 26.599999999999998px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.addadmin_addadmin .User .Frame270 .AustinRobertson {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 100%;
+	height: 26.599999999999998px;
+	color: rgba(35,45,66,1.00);
+	font-family: Inter;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 26.599999999999998px;
+}
+.addadmin_addadmin .Rectangle539 {
+	position: absolute;
+	left: 261.25px;
+	top: 116.85px;
+	width: 1153.3px;
+	height: 871.15px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 19px;
+}
+.addadmin_addadmin .AddAdmins {
+	position: absolute;
+	left: 315.4px;
+	top: 143.45px;
+	width: 94.05px;
+	height: 26.599999999999998px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 26.599999999999998px;
+}
+.addadmin_addadmin .Rectangle540 {
+	position: absolute;
+	left: 306.84999999999997px;
+	top: 401.84999999999997px;
+	width: 285px;
+	height: 285px;
+	background: rgba(79,79,79,1.00);
+	border-radius: 183.35px;
+}
+.addadmin_addadmin .AddPhoto {
+	position: absolute;
+	left: 409.45px;
+	top: 531.05px;
+	width: 79.8px;
+	height: 26.599999999999998px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 26.599999999999998px;
+}
+.addadmin_addadmin .Rectangle548 {
+	position: absolute;
+	left: 727.6999999999999px;
+	top: 311.59999999999997px;
+	width: 521.55px;
+	height: 47.5px;
+	border-radius: 19px;
+	border: 2px solid rgba(148.9624947309494,147.721146941185,147.721146941185,1);
+	box-sizing: border-box;
+}
+.addadmin_addadmin .Rectangle549 {
+	position: absolute;
+	left: 727.6999999999999px;
+	top: 406.59999999999997px;
+	width: 521.55px;
+	height: 47.5px;
+	border-radius: 19px;
+	border: 2px solid rgba(148.9624947309494,147.721146941185,147.721146941185,1);
+	box-sizing: border-box;
+}
+.addadmin_addadmin .Rectangle550 {
+	position: absolute;
+	left: 727.6999999999999px;
+	top: 501.59999999999997px;
+	width: 521.55px;
+	height: 47.5px;
+	border-radius: 19px;
+	border: 2px solid rgba(148.9624947309494,147.721146941185,147.721146941185,1);
+	box-sizing: border-box;
+}
+.addadmin_addadmin .Rectangle551 {
+	position: absolute;
+	left: 727.6999999999999px;
+	top: 596.6px;
+	width: 521.55px;
+	height: 47.5px;
+	border-radius: 19px;
+	border: 2px solid rgba(148.9624947309494,147.721146941185,147.721146941185,1);
+	box-sizing: border-box;
+}
+.addadmin_addadmin .Name {
+	position: absolute;
+	left: 756.1999999999999px;
+	top: 322.05px;
+	width: 46.55px;
+	height: 26.599999999999998px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 26.599999999999998px;
+}
+.addadmin_addadmin .Position {
+	position: absolute;
+	left: 756.1999999999999px;
+	top: 417.04999999999995px;
+	width: 59.849999999999994px;
+	height: 26.599999999999998px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 26.599999999999998px;
+}
+.addadmin_addadmin .Phone {
+	position: absolute;
+	left: 756.1999999999999px;
+	top: 512.05px;
+	width: 47.5px;
+	height: 26.599999999999998px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 26.599999999999998px;
+}
+.addadmin_addadmin .Mail {
+	position: absolute;
+	left: 756.1999999999999px;
+	top: 607.05px;
+	width: 31.349999999999998px;
+	height: 26.599999999999998px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 26.599999999999998px;
+}
+.addadmin_addadmin .Rectangle552 {
+	position: absolute;
+	left: 893.9499999999999px;
+	top: 686.85px;
+	width: 190px;
+	height: 47.5px;
+	background: rgba(255,147,147,1.00);
+	border-radius: 28.5px;
+}
+.addadmin_addadmin .Add {
+	position: absolute;
+	left: 972.8px;
+	top: 697.3px;
+	width: 31.349999999999998px;
+	height: 26.599999999999998px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 26.599999999999998px;
+}

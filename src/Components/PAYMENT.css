@@ -1,0 +1,330 @@
+
+.PAYMENT_PAYMENT {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(251,251,251,1.00);
+}
+.PAYMENT_PAYMENT .Rectangle39 {
+	position: absolute;
+	left: 145.35px;
+	top: 142.5px;
+	width: 1145.7px;
+	height: 712.5px;
+	background: rgba(251,251,251,1.00);
+	border-radius: 28.5px;
+}
+.PAYMENT_PAYMENT .LOGO {
+	position: absolute;
+	left: 243.2px;
+	top: 213.75px;
+	width: 134.9px;
+	height: 71.25px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 47.5px;
+	font-weight: 900;
+	line-height: 71.25px;
+}
+.PAYMENT_PAYMENT .Itemname {
+	position: absolute;
+	left: 261.25px;
+	top: 309.7px;
+	width: 126.35px;
+	height: 34.199999999999996px;
+	color: rgba(34,34,34,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 34.199999999999996px;
+}
+.PAYMENT_PAYMENT .Contactus {
+	position: absolute;
+	left: 261.25px;
+	top: 418px;
+	width: 110.19999999999999px;
+	height: 28.5px;
+	color: rgba(34,34,34,1.00);
+	font-family: Poppins;
+	font-size: 19px;
+	font-weight: 500;
+	line-height: 28.5px;
+}
+.PAYMENT_PAYMENT .TermsandConditions {
+	position: absolute;
+	left: 261.25px;
+	top: 627.9499999999999px;
+	width: 211.85px;
+	height: 28.5px;
+	color: rgba(34,34,34,1.00);
+	font-family: Poppins;
+	font-size: 19px;
+	font-weight: 500;
+	line-height: 28.5px;
+}
+.PAYMENT_PAYMENT ._123456789 {
+	position: absolute;
+	left: 297.34999999999997px;
+	top: 531.05px;
+	width: 80.75px;
+	height: 22.799999999999997px;
+	color: rgba(34,34,34,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.PAYMENT_PAYMENT .namegmailcom {
+	position: absolute;
+	left: 297.34999999999997px;
+	top: 475.95px;
+	width: 144.4px;
+	height: 22.799999999999997px;
+	color: rgba(34,34,34,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.PAYMENT_PAYMENT .Rectangle40 {
+	position: absolute;
+	left: 825.55px;
+	top: 213.75px;
+	width: 368.59999999999997px;
+	height: 517.75px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 28.5px;
+}
+.PAYMENT_PAYMENT .Rectangle46 {
+	position: absolute;
+	left: 825.55px;
+	top: 676.4px;
+	width: 368.59999999999997px;
+	height: 55.099999999999994px;
+	background: rgba(227,227,227,1.00);
+}
+.PAYMENT_PAYMENT .Rectangle47 {
+	position: absolute;
+	left: 1043.1px;
+	top: 676.4px;
+	width: 151.04999999999998px;
+	height: 55.099999999999994px;
+	background: rgba(255,147,147,1.00);
+}
+.PAYMENT_PAYMENT .Pay000 {
+	position: absolute;
+	left: 1077.3px;
+	top: 692.55px;
+	width: 76.95px;
+	height: 22.799999999999997px;
+	color: rgba(236,236,236,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 700;
+	line-height: 22.799999999999997px;
+}
+.PAYMENT_PAYMENT .PaymentDetails {
+	position: absolute;
+	left: 844.55px;
+	top: 228px;
+	width: 158.65px;
+	height: 28.5px;
+	color: rgba(34,34,34,1.00);
+	font-family: Poppins;
+	font-size: 19px;
+	font-weight: 600;
+	line-height: 28.5px;
+}
+.PAYMENT_PAYMENT .Amount {
+	position: absolute;
+	left: 847.4px;
+	top: 342.95px;
+	width: 68.39999999999999px;
+	height: 22.799999999999997px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 22.799999999999997px;
+}
+.PAYMENT_PAYMENT .Name {
+	position: absolute;
+	left: 847.4px;
+	top: 280.25px;
+	width: 54.15px;
+	height: 22.799999999999997px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 22.799999999999997px;
+}
+.PAYMENT_PAYMENT .Email {
+	position: absolute;
+	left: 847.4px;
+	top: 403.75px;
+	width: 49.4px;
+	height: 22.799999999999997px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 22.799999999999997px;
+}
+.PAYMENT_PAYMENT .Phone {
+	position: absolute;
+	left: 847.4px;
+	top: 466.45px;
+	width: 55.099999999999994px;
+	height: 22.799999999999997px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 22.799999999999997px;
+}
+.PAYMENT_PAYMENT .Date {
+	position: absolute;
+	left: 847.4px;
+	top: 528.1999999999999px;
+	width: 43.699999999999996px;
+	height: 22.799999999999997px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 22.799999999999997px;
+}
+.PAYMENT_PAYMENT .message {
+	position: absolute;
+	left: 847.4px;
+	top: 589px;
+	width: 78.85px;
+	height: 22.799999999999997px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 22.799999999999997px;
+}
+.PAYMENT_PAYMENT .Rectangle41 {
+	position: absolute;
+	left: 960.4499999999999px;
+	top: 342px;
+	width: 214.7px;
+	height: 23.75px;
+	border-radius: 4.75px;
+	border: 1px solid rgba(175.5249997973442,175.5249997973442,175.5249997973442,1);
+}
+.PAYMENT_PAYMENT .Rectangle48 {
+	position: absolute;
+	left: 960.4499999999999px;
+	top: 280.25px;
+	width: 214.7px;
+	height: 23.75px;
+	border-radius: 4.75px;
+	border: 1px solid rgba(175.5249997973442,175.5249997973442,175.5249997973442,1);
+}
+.PAYMENT_PAYMENT .Rectangle42 {
+	position: absolute;
+	left: 960.4499999999999px;
+	top: 403.75px;
+	width: 214.7px;
+	height: 23.75px;
+	border-radius: 4.75px;
+	border: 1px solid rgba(175.5249997973442,175.5249997973442,175.5249997973442,1);
+}
+.PAYMENT_PAYMENT .Rectangle43 {
+	position: absolute;
+	left: 960.4499999999999px;
+	top: 465.5px;
+	width: 214.7px;
+	height: 23.75px;
+	border-radius: 4.75px;
+	border: 1px solid rgba(175.5249997973442,175.5249997973442,175.5249997973442,1);
+}
+.PAYMENT_PAYMENT .Rectangle44 {
+	position: absolute;
+	left: 960.4499999999999px;
+	top: 527.25px;
+	width: 214.7px;
+	height: 23.75px;
+	border-radius: 4.75px;
+	border: 1px solid rgba(175.5249997973442,175.5249997973442,175.5249997973442,1);
+}
+.PAYMENT_PAYMENT .Rectangle45 {
+	position: absolute;
+	left: 960.4499999999999px;
+	top: 589px;
+	width: 214.7px;
+	height: 71.25px;
+	border-radius: 4.75px;
+	border: 1px solid rgba(175.5249997973442,175.5249997973442,175.5249997973442,1);
+}
+.PAYMENT_PAYMENT .pay_methods_branding1 {
+	position: absolute;
+	left: 844.55px;
+	top: 698.25px;
+	width: 152.95px;
+	height: 11.399999999999999px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.PAYMENT_PAYMENT .iconphone {
+	position: absolute;
+	left: 263.15px;
+	top: 530.1px;
+	width: 23.75px;
+	height: 23.75023193359375px;
+}
+.PAYMENT_PAYMENT .iconphone .Vector {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.PAYMENT_PAYMENT .iconenvelope {
+	position: absolute;
+	left: 263.15px;
+	top: 479.75px;
+	width: 23.75px;
+	height: 19px;
+}
+.PAYMENT_PAYMENT .iconenvelope .Group {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.PAYMENT_PAYMENT .iconenvelope .Group .Vector_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.PAYMENT_PAYMENT .iconenvelope .Group .Vector_2 {
+	position: absolute;
+	left: 1.1875px;
+	top: 1.1875px;
+	width: 90%;
+	height: 41.551513671875%;
+}
+.PAYMENT_PAYMENT .YouraccesstoanduseofLoremIpsumtheappissubjectexclusivelytotheseTermsandConditionsYouwillnotusetheappforanypurposethatisunlawfulorprohibitedbytheseTermsandConditions {
+	position: absolute;
+	left: 261.25px;
+	top: 682.1px;
+	width: 434.15px;
+	height: 95.94999999999999px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 22.799999999999997px;
+}

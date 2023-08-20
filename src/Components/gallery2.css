@@ -1,0 +1,746 @@
+
+.gallery2_gallery2 {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.gallery2_gallery2 .Rectangle1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1436.3999999999999px;
+	height: 95px;
+	background: rgba(255,178,178,1.00);
+}
+.gallery2_gallery2 .LOGO {
+	position: absolute;
+	left: 28.5px;
+	top: 26.599999999999998px;
+	width: 81.7px;
+	height: 42.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 28.5px;
+	font-weight: 900;
+	line-height: 42.75px;
+}
+.gallery2_gallery2 .NAV {
+	position: absolute;
+	left: 51.55257936507936%;
+	top: 36.1px;
+	transform: translate(-50%, 0);
+	width: 778.05px;
+	height: 22.799999999999997px;
+}
+.gallery2_gallery2 .NAV .HOME {
+	width: 5.738705738705739%;
+	height: 100%;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.gallery2_gallery2 .NAV .NEWS {
+	width: 5.616605616605617%;
+	height: 100%;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.gallery2_gallery2 .NAV .HISTORY {
+	width: 8.18070818070818%;
+	height: 100%;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.gallery2_gallery2 .NAV .ABOUTUS {
+	width: 9.645909645909647%;
+	height: 100%;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.gallery2_gallery2 .NAV .CONTACT {
+	width: 9.645909645909647%;
+	height: 100%;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.gallery2_gallery2 .NAV .ONLINEOFFERING {
+	width: 16.605616605616603%;
+	height: 100%;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.gallery2_gallery2 .NAV .GALLERY {
+	width: 8.058608058608058%;
+	height: 100%;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.gallery2_gallery2 .Rectangle3 {
+	position: absolute;
+	left: -1.9px;
+	top: 153.9px;
+	width: 1436.3999999999999px;
+	height: 47.5px;
+	background: rgba(255,178,178,0.25);
+}
+.gallery2_gallery2 .EVENTS {
+	position: absolute;
+	left: 47.531415343915334%;
+	top: 160.54999999999998px;
+	transform: translate(-50%, 0);
+	width: 86.45px;
+	height: 34.199999999999996px;
+	color: rgba(34,34,34,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 700;
+	line-height: 34.199999999999996px;
+}
+.gallery2_gallery2 .Rectangle2 {
+	position: absolute;
+	left: 0px;
+	top: 1512.3999999999999px;
+	width: 1436.3999999999999px;
+	height: 577.6px;
+	background: rgba(34,34,34,1.00);
+}
+.gallery2_gallery2 .LOGO_1 {
+	position: absolute;
+	left: 145.35px;
+	top: 1766.05px;
+	width: 133.95px;
+	height: 71.25px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 47.5px;
+	font-weight: 700;
+	line-height: 71.25px;
+}
+.gallery2_gallery2 .Addresslocation {
+	position: absolute;
+	left: 360.05px;
+	top: 1724.25px;
+	width: 95px;
+	height: 45.599999999999994px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 22.799999999999997px;
+}
+.gallery2_gallery2 ._123456789987654321 {
+	position: absolute;
+	left: 360.05px;
+	top: 1830.6499999999999px;
+	width: 85.5px;
+	height: 45.599999999999994px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 22.799999999999997px;
+}
+.gallery2_gallery2 .namegmailcom {
+	position: absolute;
+	left: 360.05px;
+	top: 1937.05px;
+	width: 171.95px;
+	height: 22.799999999999997px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 22.799999999999997px;
+}
+.gallery2_gallery2 .ContactUs {
+	position: absolute;
+	left: 360.05px;
+	top: 1618.8px;
+	width: 127.3px;
+	height: 34.199999999999996px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 34.199999999999996px;
+}
+.gallery2_gallery2 .UsefulLinks {
+	position: absolute;
+	left: 718.1999999999999px;
+	top: 1618.8px;
+	width: 133px;
+	height: 34.199999999999996px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 34.199999999999996px;
+}
+.gallery2_gallery2 .SocialMedia {
+	position: absolute;
+	left: 1037.3999999999999px;
+	top: 1618.8px;
+	width: 147.25px;
+	height: 34.199999999999996px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 34.199999999999996px;
+}
+.gallery2_gallery2 .Support {
+	position: absolute;
+	left: 1037.3999999999999px;
+	top: 1752.75px;
+	width: 92.14999999999999px;
+	height: 34.199999999999996px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 34.199999999999996px;
+}
+.gallery2_gallery2 .Address {
+	position: absolute;
+	left: 360.05px;
+	top: 1692.8999999999999px;
+	width: 71.25px;
+	height: 25.65px;
+	color: rgba(255,178,178,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 500;
+	line-height: 25.65px;
+}
+.gallery2_gallery2 .Phone {
+	position: absolute;
+	left: 360.05px;
+	top: 1799.3px;
+	width: 54.15px;
+	height: 25.65px;
+	color: rgba(255,178,178,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 500;
+	line-height: 25.65px;
+}
+.gallery2_gallery2 .Email {
+	position: absolute;
+	left: 360.05px;
+	top: 1905.6999999999998px;
+	width: 47.5px;
+	height: 25.65px;
+	color: rgba(255,178,178,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 500;
+	line-height: 25.65px;
+}
+.gallery2_gallery2 .HOME_1 {
+	position: absolute;
+	left: 718.1999999999999px;
+	top: 1692.8999999999999px;
+	width: 49.4px;
+	height: 25.65px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 400;
+	line-height: 25.65px;
+}
+.gallery2_gallery2 .NEWS_1 {
+	position: absolute;
+	left: 718.1999999999999px;
+	top: 1748.9499999999998px;
+	width: 48.449999999999996px;
+	height: 25.65px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 400;
+	line-height: 25.65px;
+}
+.gallery2_gallery2 .GALLERY_1 {
+	position: absolute;
+	left: 718.1999999999999px;
+	top: 1805px;
+	width: 69.35px;
+	height: 25.65px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 400;
+	line-height: 25.65px;
+}
+.gallery2_gallery2 .Contact {
+	position: absolute;
+	left: 1037.3999999999999px;
+	top: 1791.6999999999998px;
+	width: 70.3px;
+	height: 25.65px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 400;
+	line-height: 25.65px;
+}
+.gallery2_gallery2 .ABOUTUS_1 {
+	position: absolute;
+	left: 718.1999999999999px;
+	top: 1861.05px;
+	width: 82.64999999999999px;
+	height: 25.65px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 400;
+	line-height: 25.65px;
+}
+.gallery2_gallery2 .Subtract {
+	position: absolute;
+	left: 1037.3999999999999px;
+	top: 1688.7330810546873px;
+	width: 34.1781982421875px;
+	height: 25.039086914062498px;
+}
+.gallery2_gallery2 .Subtract_1 {
+	position: absolute;
+	left: 1220.3232421875px;
+	top: 1689.3574462890624px;
+	width: 28.0245361328125px;
+	height: 24.1169189453125px;
+}
+.gallery2_gallery2 .Subtract_2 {
+	position: absolute;
+	left: 1104.8277343749999px;
+	top: 1685.601513671875px;
+	width: 16.232568359374998px;
+	height: 31.298974609374998px;
+}
+.gallery2_gallery2 .Subtract_3 {
+	position: absolute;
+	left: 1154.31123046875px;
+	top: 1684.35px;
+	width: 32.7624755859375px;
+	height: 34.183764648437496px;
+}
+.gallery2_gallery2 ._2023AllRightsReservedby {
+	position: absolute;
+	left: 47.5%;
+	top: 2040.6px;
+	transform: translate(-50%, 0);
+	width: 224.2px;
+	height: 22.799999999999997px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.gallery2_gallery2 .Rectangle9 {
+	position: absolute;
+	left: 28.5px;
+	top: 245.1px;
+	width: 330.59999999999997px;
+	height: 330.59999999999997px;
+	background: rgba(196,196,196,1.00);
+	border-radius: 19px;
+}
+.gallery2_gallery2 .Rectangle13 {
+	position: absolute;
+	left: 28.5px;
+	top: 642.1999999999999px;
+	width: 330.59999999999997px;
+	height: 330.59999999999997px;
+	background: rgba(196,196,196,1.00);
+	border-radius: 19px;
+}
+.gallery2_gallery2 .Rectangle17 {
+	position: absolute;
+	left: 28.5px;
+	top: 1039.3px;
+	width: 330.59999999999997px;
+	height: 330.59999999999997px;
+	background: rgba(196,196,196,1.00);
+	border-radius: 19px;
+}
+.gallery2_gallery2 .Rectangle11 {
+	position: absolute;
+	left: 727.6999999999999px;
+	top: 245.1px;
+	width: 330.59999999999997px;
+	height: 330.59999999999997px;
+	background: rgba(196,196,196,1.00);
+	border-radius: 19px;
+}
+.gallery2_gallery2 .Rectangle14 {
+	position: absolute;
+	left: 727.6999999999999px;
+	top: 642.1999999999999px;
+	width: 330.59999999999997px;
+	height: 330.59999999999997px;
+	background: rgba(196,196,196,1.00);
+	border-radius: 19px;
+}
+.gallery2_gallery2 .Rectangle18 {
+	position: absolute;
+	left: 727.6999999999999px;
+	top: 1039.3px;
+	width: 330.59999999999997px;
+	height: 330.59999999999997px;
+	background: rgba(196,196,196,1.00);
+	border-radius: 19px;
+}
+.gallery2_gallery2 .Rectangle10 {
+	position: absolute;
+	left: 378.09999999999997px;
+	top: 245.1px;
+	width: 330.59999999999997px;
+	height: 330.59999999999997px;
+	background: rgba(196,196,196,1.00);
+	border-radius: 19px;
+}
+.gallery2_gallery2 .Rectangle15 {
+	position: absolute;
+	left: 378.09999999999997px;
+	top: 642.1999999999999px;
+	width: 330.59999999999997px;
+	height: 330.59999999999997px;
+	background: rgba(196,196,196,1.00);
+	border-radius: 19px;
+}
+.gallery2_gallery2 .Rectangle19 {
+	position: absolute;
+	left: 378.09999999999997px;
+	top: 1039.3px;
+	width: 330.59999999999997px;
+	height: 330.59999999999997px;
+	background: rgba(196,196,196,1.00);
+	border-radius: 19px;
+}
+.gallery2_gallery2 .Rectangle12 {
+	position: absolute;
+	left: 1077.3px;
+	top: 245.1px;
+	width: 330.59999999999997px;
+	height: 330.59999999999997px;
+	background: rgba(196,196,196,1.00);
+	border-radius: 19px;
+}
+.gallery2_gallery2 .Rectangle16 {
+	position: absolute;
+	left: 1077.3px;
+	top: 642.1999999999999px;
+	width: 330.59999999999997px;
+	height: 330.59999999999997px;
+	background: rgba(196,196,196,1.00);
+	border-radius: 19px;
+}
+.gallery2_gallery2 .Rectangle20 {
+	position: absolute;
+	left: 1077.3px;
+	top: 1039.3px;
+	width: 330.59999999999997px;
+	height: 330.59999999999997px;
+	background: rgba(196,196,196,1.00);
+	border-radius: 19px;
+}
+.gallery2_gallery2 .Name {
+	position: absolute;
+	left: 158.65px;
+	top: 591.85px;
+	width: 70.3px;
+	height: 34.199999999999996px;
+	color: rgba(34,34,34,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 34.199999999999996px;
+}
+.gallery2_gallery2 .Name_1 {
+	position: absolute;
+	left: 158.65px;
+	top: 988.9499999999999px;
+	width: 70.3px;
+	height: 34.199999999999996px;
+	color: rgba(34,34,34,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 34.199999999999996px;
+}
+.gallery2_gallery2 .Name_2 {
+	position: absolute;
+	left: 158.65px;
+	top: 1386.05px;
+	width: 70.3px;
+	height: 34.199999999999996px;
+	color: rgba(34,34,34,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 34.199999999999996px;
+}
+.gallery2_gallery2 .Name_3 {
+	position: absolute;
+	left: 857.8499999999999px;
+	top: 591.85px;
+	width: 70.3px;
+	height: 34.199999999999996px;
+	color: rgba(34,34,34,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 34.199999999999996px;
+}
+.gallery2_gallery2 .Name_4 {
+	position: absolute;
+	left: 857.8499999999999px;
+	top: 988.9499999999999px;
+	width: 70.3px;
+	height: 34.199999999999996px;
+	color: rgba(34,34,34,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 34.199999999999996px;
+}
+.gallery2_gallery2 .Name_5 {
+	position: absolute;
+	left: 857.8499999999999px;
+	top: 1386.05px;
+	width: 70.3px;
+	height: 34.199999999999996px;
+	color: rgba(34,34,34,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 34.199999999999996px;
+}
+.gallery2_gallery2 .Name_6 {
+	position: absolute;
+	left: 508.25px;
+	top: 591.85px;
+	width: 70.3px;
+	height: 34.199999999999996px;
+	color: rgba(34,34,34,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 34.199999999999996px;
+}
+.gallery2_gallery2 .Name_7 {
+	position: absolute;
+	left: 508.25px;
+	top: 988.9499999999999px;
+	width: 70.3px;
+	height: 34.199999999999996px;
+	color: rgba(34,34,34,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 34.199999999999996px;
+}
+.gallery2_gallery2 .Name_8 {
+	position: absolute;
+	left: 508.25px;
+	top: 1386.05px;
+	width: 70.3px;
+	height: 34.199999999999996px;
+	color: rgba(34,34,34,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 34.199999999999996px;
+}
+.gallery2_gallery2 .Name_9 {
+	position: absolute;
+	left: 1207.45px;
+	top: 591.85px;
+	width: 70.3px;
+	height: 34.199999999999996px;
+	color: rgba(34,34,34,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 34.199999999999996px;
+}
+.gallery2_gallery2 .Name_10 {
+	position: absolute;
+	left: 1207.45px;
+	top: 988.9499999999999px;
+	width: 70.3px;
+	height: 34.199999999999996px;
+	color: rgba(34,34,34,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 34.199999999999996px;
+}
+.gallery2_gallery2 .Name_11 {
+	position: absolute;
+	left: 1207.45px;
+	top: 1386.05px;
+	width: 70.3px;
+	height: 34.199999999999996px;
+	color: rgba(34,34,34,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 34.199999999999996px;
+}
+.gallery2_gallery2 .PHOTO {
+	position: absolute;
+	left: 148.2px;
+	top: 404.7px;
+	width: 82.64999999999999px;
+	height: 34.199999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 900;
+	line-height: 34.199999999999996px;
+}
+.gallery2_gallery2 .PHOTO_1 {
+	position: absolute;
+	left: 145.35px;
+	top: 802.75px;
+	width: 82.64999999999999px;
+	height: 38.949999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 900;
+	line-height: 34.199999999999996px;
+}
+.gallery2_gallery2 .PHOTO_2 {
+	position: absolute;
+	left: 157.7px;
+	top: 1184.6499999999999px;
+	width: 82.64999999999999px;
+	height: 38.949999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 900;
+	line-height: 34.199999999999996px;
+}
+.gallery2_gallery2 .PHOTO_3 {
+	position: absolute;
+	left: 497.79999999999995px;
+	top: 404.7px;
+	width: 82.64999999999999px;
+	height: 34.199999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 900;
+	line-height: 34.199999999999996px;
+}
+.gallery2_gallery2 .PHOTO_4 {
+	position: absolute;
+	left: 494.95px;
+	top: 802.75px;
+	width: 82.64999999999999px;
+	height: 38.949999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 900;
+	line-height: 34.199999999999996px;
+}
+.gallery2_gallery2 .PHOTO_5 {
+	position: absolute;
+	left: 507.29999999999995px;
+	top: 1184.6499999999999px;
+	width: 82.64999999999999px;
+	height: 38.949999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 900;
+	line-height: 34.199999999999996px;
+}
+.gallery2_gallery2 .PHOTO_6 {
+	position: absolute;
+	left: 855.9499999999999px;
+	top: 404.7px;
+	width: 82.64999999999999px;
+	height: 34.199999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 900;
+	line-height: 34.199999999999996px;
+}
+.gallery2_gallery2 .PHOTO_7 {
+	position: absolute;
+	left: 853.0999999999999px;
+	top: 802.75px;
+	width: 82.64999999999999px;
+	height: 38.949999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 900;
+	line-height: 34.199999999999996px;
+}
+.gallery2_gallery2 .PHOTO_8 {
+	position: absolute;
+	left: 865.4499999999999px;
+	top: 1184.6499999999999px;
+	width: 82.64999999999999px;
+	height: 38.949999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 900;
+	line-height: 34.199999999999996px;
+}
+.gallery2_gallery2 .PHOTO_9 {
+	position: absolute;
+	left: 1205.55px;
+	top: 404.7px;
+	width: 82.64999999999999px;
+	height: 34.199999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 900;
+	line-height: 34.199999999999996px;
+}
+.gallery2_gallery2 .PHOTO_10 {
+	position: absolute;
+	left: 1202.7px;
+	top: 802.75px;
+	width: 82.64999999999999px;
+	height: 38.949999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 900;
+	line-height: 34.199999999999996px;
+}
+.gallery2_gallery2 .PHOTO_11 {
+	position: absolute;
+	left: 1215.05px;
+	top: 1184.6499999999999px;
+	width: 82.64999999999999px;
+	height: 38.949999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 900;
+	line-height: 34.199999999999996px;
+}

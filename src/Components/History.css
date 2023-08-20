@@ -1,0 +1,491 @@
+
+.History_History {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.History_History .Rectangle1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1436.3999999999999px;
+	height: 95px;
+	background: rgba(255,178,178,1.00);
+}
+.History_History .Rectangle3 {
+	position: absolute;
+	left: 8.549999999999999px;
+	top: 287.84999999999997px;
+	width: 1436.3999999999999px;
+	height: 47.5px;
+	background: rgba(255,178,178,0.25);
+}
+.History_History .LOGO {
+	position: absolute;
+	left: 28.5px;
+	top: 26.599999999999998px;
+	width: 81.7px;
+	height: 42.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 28.5px;
+	font-weight: 900;
+	line-height: 42.75px;
+}
+.History_History .NAV {
+	position: absolute;
+	left: 51.55257936507936%;
+	top: 36.1px;
+	transform: translate(-50%, 0);
+	width: 778.05px;
+	height: 22.799999999999997px;
+}
+.History_History .NAV .HOME {
+	width: 5.738705738705739%;
+	height: 100%;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.History_History .NAV .NEWS {
+	width: 5.616605616605617%;
+	height: 100%;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.History_History .NAV .HISTORY {
+	width: 8.18070818070818%;
+	height: 100%;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.History_History .NAV .ABOUTUS {
+	width: 9.645909645909647%;
+	height: 100%;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.History_History .NAV .CONTACT {
+	width: 9.645909645909647%;
+	height: 100%;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.History_History .NAV .ONLINEOFFERING {
+	width: 16.605616605616603%;
+	height: 100%;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.History_History .NAV .GALLERY {
+	width: 8.058608058608058%;
+	height: 100%;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.History_History .HISTORY_1 {
+	position: absolute;
+	left: 47.531415343915334%;
+	top: 192.85px;
+	transform: translate(-50%, 0);
+	width: 149.15px;
+	height: 51.3px;
+	color: rgba(34,34,34,1.00);
+	font-family: Poppins;
+	font-size: 34.199999999999996px;
+	font-weight: 700;
+	line-height: 51.3px;
+}
+.History_History .CHURCHNAME {
+	position: absolute;
+	left: 47.5%;
+	top: 289.75px;
+	transform: translate(-50%, 0);
+	width: 224.2px;
+	height: 45.599999999999994px;
+	color: rgba(34,34,34,1.00);
+	font-family: Poppins;
+	font-size: 30.4px;
+	font-weight: 500;
+	line-height: 45.599999999999994px;
+}
+.History_History .CHURCHNAME_1 {
+	position: absolute;
+	left: 47.5%;
+	top: 779px;
+	transform: translate(-50%, 0);
+	width: 224.2px;
+	height: 45.599999999999994px;
+	color: rgba(34,34,34,1.00);
+	font-family: Poppins;
+	font-size: 30.4px;
+	font-weight: 500;
+	line-height: 45.599999999999994px;
+}
+.History_History .Rectangle2 {
+	position: absolute;
+	left: 0px;
+	top: 1934.1999999999998px;
+	width: 1436.3999999999999px;
+	height: 577.6px;
+	background: rgba(34,34,34,1.00);
+}
+.History_History .LOGO_1 {
+	position: absolute;
+	left: 145.35px;
+	top: 2187.85px;
+	width: 133.95px;
+	height: 71.25px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 47.5px;
+	font-weight: 700;
+	line-height: 71.25px;
+}
+.History_History .Addresslocation {
+	position: absolute;
+	left: 360.05px;
+	top: 2146.0499999999997px;
+	width: 95px;
+	height: 45.599999999999994px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 22.799999999999997px;
+}
+.History_History ._123456789987654321 {
+	position: absolute;
+	left: 360.05px;
+	top: 2252.45px;
+	width: 85.5px;
+	height: 45.599999999999994px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 22.799999999999997px;
+}
+.History_History .namegmailcom {
+	position: absolute;
+	left: 360.05px;
+	top: 2358.85px;
+	width: 171.95px;
+	height: 22.799999999999997px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 22.799999999999997px;
+}
+.History_History .ContactUs {
+	position: absolute;
+	left: 360.05px;
+	top: 2040.6px;
+	width: 127.3px;
+	height: 34.199999999999996px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 34.199999999999996px;
+}
+.History_History .UsefulLinks {
+	position: absolute;
+	left: 718.1999999999999px;
+	top: 2040.6px;
+	width: 133px;
+	height: 34.199999999999996px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 34.199999999999996px;
+}
+.History_History .SocialMedia {
+	position: absolute;
+	left: 1037.3999999999999px;
+	top: 2040.6px;
+	width: 147.25px;
+	height: 34.199999999999996px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 34.199999999999996px;
+}
+.History_History .Support {
+	position: absolute;
+	left: 1037.3999999999999px;
+	top: 2174.5499999999997px;
+	width: 92.14999999999999px;
+	height: 34.199999999999996px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 34.199999999999996px;
+}
+.History_History .Address {
+	position: absolute;
+	left: 360.05px;
+	top: 2114.7px;
+	width: 71.25px;
+	height: 25.65px;
+	color: rgba(255,178,178,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 500;
+	line-height: 25.65px;
+}
+.History_History .Phone {
+	position: absolute;
+	left: 360.05px;
+	top: 2221.1px;
+	width: 54.15px;
+	height: 25.65px;
+	color: rgba(255,178,178,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 500;
+	line-height: 25.65px;
+}
+.History_History .Email {
+	position: absolute;
+	left: 360.05px;
+	top: 2327.5px;
+	width: 47.5px;
+	height: 25.65px;
+	color: rgba(255,178,178,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 500;
+	line-height: 25.65px;
+}
+.History_History .HOME_1 {
+	position: absolute;
+	left: 718.1999999999999px;
+	top: 2114.7px;
+	width: 49.4px;
+	height: 25.65px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 400;
+	line-height: 25.65px;
+}
+.History_History .NEWS_1 {
+	position: absolute;
+	left: 718.1999999999999px;
+	top: 2170.75px;
+	width: 48.449999999999996px;
+	height: 25.65px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 400;
+	line-height: 25.65px;
+}
+.History_History .GALLERY_1 {
+	position: absolute;
+	left: 718.1999999999999px;
+	top: 2226.7999999999997px;
+	width: 69.35px;
+	height: 25.65px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 400;
+	line-height: 25.65px;
+}
+.History_History .Contact {
+	position: absolute;
+	left: 1037.3999999999999px;
+	top: 2213.5px;
+	width: 70.3px;
+	height: 25.65px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 400;
+	line-height: 25.65px;
+}
+.History_History .ABOUTUS_1 {
+	position: absolute;
+	left: 718.1999999999999px;
+	top: 2282.85px;
+	width: 82.64999999999999px;
+	height: 25.65px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 400;
+	line-height: 25.65px;
+}
+.History_History .Subtract {
+	position: absolute;
+	left: 1037.3999999999999px;
+	top: 2110.5330810546875px;
+	width: 34.1781982421875px;
+	height: 25.039318847656247px;
+}
+.History_History .Subtract_1 {
+	position: absolute;
+	left: 1220.3232421875px;
+	top: 2111.1574462890626px;
+	width: 28.0245361328125px;
+	height: 24.1169189453125px;
+}
+.History_History .Subtract_2 {
+	position: absolute;
+	left: 1104.8277343749999px;
+	top: 2107.4012817382813px;
+	width: 16.232568359374998px;
+	height: 31.299090576171874px;
+}
+.History_History .Subtract_3 {
+	position: absolute;
+	left: 1154.31123046875px;
+	top: 2106.15px;
+	width: 32.7624755859375px;
+	height: 34.18353271484375px;
+}
+.History_History ._2023AllRightsReservedby {
+	position: absolute;
+	left: 47.5%;
+	top: 2462.4px;
+	transform: translate(-50%, 0);
+	width: 224.2px;
+	height: 22.799999999999997px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.History_History .LOGO_2 {
+	position: absolute;
+	left: 47.5%;
+	top: 122.55px;
+	transform: translate(-50%, 0);
+	width: 81.7px;
+	height: 42.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 28.5px;
+	font-weight: 900;
+	line-height: 42.75px;
+}
+.History_History .LOGO_3 {
+	position: absolute;
+	left: 47.5%;
+	top: 656.4499999999999px;
+	transform: translate(-50%, 0);
+	width: 81.7px;
+	height: 42.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 28.5px;
+	font-weight: 900;
+	line-height: 42.75px;
+}
+.History_History .map1 {
+	position: absolute;
+	left: 0px;
+	top: 1653.9499999999998px;
+	width: 1436.3999999999999px;
+	height: 280.25px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.History_History .Rectangle49 {
+	position: absolute;
+	left: 119.69999999999999px;
+	top: 399px;
+	width: 285px;
+	height: 190px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 19px;
+}
+.History_History .Rectangle50 {
+	position: absolute;
+	left: 423.7px;
+	top: 399px;
+	width: 285px;
+	height: 190px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 19px;
+}
+.History_History .Rectangle51 {
+	position: absolute;
+	left: 727.6999999999999px;
+	top: 399px;
+	width: 285px;
+	height: 190px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 19px;
+}
+.History_History .Rectangle52 {
+	position: absolute;
+	left: 1031.7px;
+	top: 399px;
+	width: 285px;
+	height: 190px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 19px;
+}
+.History_History .WhatisLoremIpsumLoremIpsumissimplydummytextoftheprintingandtypesettingindustryLoremIpsumhasbeentheindustrysstandarddummytexteversincethe1500swhenanunknownprintertookagalleyoftypeandscrambledittomakeatypespecimenbookIthassurvivednotonlyfivecenturiesbutalsotheleapintoelectronictypesettingremainingessentiallyunchangedItwaspopularisedinthe1960swiththereleaseofLetrasetsheetscontainingLoremIpsumpassagesandmorerecentlywithdesktoppublishingsoftwarelikeAldusPageMakerincludingversionsofLoremIpsumWhydoweuseitItisalongestablishedfactthatareaderwillbedistractedbythereadablecontentofapagewhenlookingatitslayoutThepointofusingLoremIpsumisthatithasamoreorlessnormaldistributionoflettersasopposedtousingContentherecontentheremakingitlooklikereadableEnglishManydesktoppublishingpackagesandwebpageeditorsnowuseLoremIpsumastheirdefaultmodeltextandasearchforloremipsumwilluncovermanywebsitesstillintheirinfancyVariousversionshaveevolvedovertheyearssometimesbyaccidentsometimesonpurposeinjectedhumourandthelikeWheredoesitcomefromContrarytopopularbeliefLoremIpsumisnotsimplyrandomtextIthasrootsinapieceofclassicalLatinliteraturefrom45BCmakingitover2000yearsoldRichardMcClintockaLatinprofessoratHampdenSydneyCollegeinVirginialookWhatisLoremIpsumLoremIpsumissimplydummytextoftheprintingandtypesettingindustryLoremIpsumhasbeentheindustrysstandarddummytexteversincethe1500swhenanunknownprintertookagalleyoftypeandscrambledittomakeatypespecimenbookIthassurvivednotonlyfivecenturiesbutalsotheleapintoelectronictypesettingremainingessentiallyunchangedItwaspopularisedinthe1960swiththereleaseofLetrasetsheetscontainingLoremIpsumpassagesandmorerecentlywithdesktoppublishingsoftwarelikeAldusPageMakerincludingversionsofLoremIpsumWhydoweuseit {
+	position: absolute;
+	left: 261.25px;
+	top: 876.8499999999999px;
+	width: 913.9px;
+	height: 635.55px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.History_History .Ellipse5 {
+	position: absolute;
+	left: 1335.7px;
+	top: 475px;
+	width: 37.05px;
+	height: 37.05px;
+	background: rgba(15,15,15,0.75);
+	border-radius: 50%;
+}
+.History_History .Ellipse6 {
+	position: absolute;
+	left: 63.65px;
+	top: 475px;
+	width: 37.05px;
+	height: 37.05px;
+	background: rgba(15,15,15,0.75);
+	border-radius: 50%;
+}
+.History_History .Vector {
+	position: absolute;
+	left: 1349.98525390625px;
+	top: 484.37394409179683px;
+	width: 0.6215251942791006%;
+	height: 0.7108616215739055%;
+}
+.History_History .Vector_1 {
+	position: absolute;
+	left: 77.48715820312499px;
+	top: 484.37394409179683px;
+	width: 0.6215251942791006%;
+	height: 0.7108616215739055%;
+}

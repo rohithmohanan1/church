@@ -1,0 +1,567 @@
+
+.contact_contact {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.contact_contact .Rectangle1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1436.3999999999999px;
+	height: 95px;
+	background: rgba(255,178,178,1.00);
+}
+.contact_contact .LOGO {
+	position: absolute;
+	left: 28.5px;
+	top: 26.599999999999998px;
+	width: 81.7px;
+	height: 42.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 28.5px;
+	font-weight: 900;
+	line-height: 42.75px;
+}
+.contact_contact .LOGO_1 {
+	position: absolute;
+	left: 47.5%;
+	top: 122.55px;
+	transform: translate(-50%, 0);
+	width: 81.7px;
+	height: 42.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 28.5px;
+	font-weight: 900;
+	line-height: 42.75px;
+}
+.contact_contact .NAV {
+	position: absolute;
+	left: 51.55257936507936%;
+	top: 36.1px;
+	transform: translate(-50%, 0);
+	width: 778.05px;
+	height: 22.799999999999997px;
+}
+.contact_contact .NAV .HOME {
+	width: 5.738705738705739%;
+	height: 100%;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.contact_contact .NAV .NEWS {
+	width: 5.616605616605617%;
+	height: 100%;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.contact_contact .NAV .HISTORY {
+	width: 8.18070818070818%;
+	height: 100%;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.contact_contact .NAV .ABOUTUS {
+	width: 9.645909645909647%;
+	height: 100%;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.contact_contact .NAV .CONTACT {
+	width: 9.645909645909647%;
+	height: 100%;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.contact_contact .NAV .ONLINEOFFERING {
+	width: 16.605616605616603%;
+	height: 100%;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.contact_contact .NAV .GALLERY {
+	width: 8.058608058608058%;
+	height: 100%;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}
+.contact_contact .Rectangle7 {
+	position: absolute;
+	left: 127.3px;
+	top: 289.75px;
+	width: 1183.7px;
+	height: 564.3px;
+	background: rgba(255,178,178,0.40);
+	border-radius: 28.5px;
+}
+.contact_contact .CONTACTUS {
+	position: absolute;
+	left: 47.531415343915334%;
+	top: 192.85px;
+	transform: translate(-50%, 0);
+	width: 223.25px;
+	height: 51.3px;
+	color: rgba(34,34,34,1.00);
+	font-family: Poppins;
+	font-size: 34.199999999999996px;
+	font-weight: 700;
+	line-height: 51.3px;
+}
+.contact_contact .Sentusamessage {
+	position: absolute;
+	left: 145.35px;
+	top: 307.8px;
+	width: 217.54999999999998px;
+	height: 34.199999999999996px;
+	color: rgba(34,34,34,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 400;
+	line-height: 34.199999999999996px;
+}
+.contact_contact .Rectangle3 {
+	position: absolute;
+	left: 145.35px;
+	top: 408.5px;
+	width: 380px;
+	height: 47.5px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 33.25px;
+	border: 1px solid rgba(34.212497770786285,34.212497770786285,34.212497770786285,1);
+}
+.contact_contact .Rectangle4 {
+	position: absolute;
+	left: 145.35px;
+	top: 513px;
+	width: 380px;
+	height: 47.5px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 33.25px;
+	border: 1px solid rgba(34.212497770786285,34.212497770786285,34.212497770786285,1);
+}
+.contact_contact .Rectangle5 {
+	position: absolute;
+	left: 145.35px;
+	top: 617.5px;
+	width: 380px;
+	height: 47.5px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 33.25px;
+	border: 1px solid rgba(34.212497770786285,34.212497770786285,34.212497770786285,1);
+}
+.contact_contact .Rectangle6 {
+	position: absolute;
+	left: 794.1999999999999px;
+	top: 408.5px;
+	width: 380px;
+	height: 281.2px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 33.25px;
+	border: 1px solid rgba(34.212497770786285,34.212497770786285,34.212497770786285,1);
+}
+.contact_contact .Name {
+	position: absolute;
+	left: 180.5px;
+	top: 420.84999999999997px;
+	width: 54.15px;
+	height: 22.799999999999997px;
+	color: rgba(0,0,0,0.50);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 22.799999999999997px;
+}
+.contact_contact .Phone {
+	position: absolute;
+	left: 180.5px;
+	top: 525.35px;
+	width: 55.099999999999994px;
+	height: 22.799999999999997px;
+	color: rgba(0,0,0,0.50);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 22.799999999999997px;
+}
+.contact_contact .Email {
+	position: absolute;
+	left: 180.5px;
+	top: 629.85px;
+	width: 49.4px;
+	height: 22.799999999999997px;
+	color: rgba(0,0,0,0.50);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 22.799999999999997px;
+}
+.contact_contact .Message {
+	position: absolute;
+	left: 829.3499999999999px;
+	top: 433.2px;
+	width: 76px;
+	height: 22.799999999999997px;
+	color: rgba(0,0,0,0.50);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 22.799999999999997px;
+}
+.contact_contact .Rectangle8 {
+	position: absolute;
+	left: 47.56283068783069%;
+	top: 755.25px;
+	transform: translate(-50%, 0);
+	width: 190px;
+	height: 47.5px;
+	background: rgba(255,147,147,1.00);
+	border-radius: 28.5px;
+}
+.contact_contact .Send {
+	position: absolute;
+	left: 689.6999999999999px;
+	top: 761.9px;
+	width: 58.9px;
+	height: 34.199999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 34.199999999999996px;
+}
+.contact_contact .Rectangle2 {
+	position: absolute;
+	left: 0px;
+	top: 1361.35px;
+	width: 1436.3999999999999px;
+	height: 577.6px;
+	background: rgba(34,34,34,1.00);
+}
+.contact_contact .LOGO_2 {
+	position: absolute;
+	left: 145.35px;
+	top: 1615px;
+	width: 133.95px;
+	height: 71.25px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 47.5px;
+	font-weight: 700;
+	line-height: 71.25px;
+}
+.contact_contact .Addresslocation {
+	position: absolute;
+	left: 360.05px;
+	top: 1573.1999999999998px;
+	width: 95px;
+	height: 45.599999999999994px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 22.799999999999997px;
+}
+.contact_contact ._123456789987654321 {
+	position: absolute;
+	left: 360.05px;
+	top: 1679.6px;
+	width: 85.5px;
+	height: 45.599999999999994px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 22.799999999999997px;
+}
+.contact_contact .namegmailcom {
+	position: absolute;
+	left: 360.05px;
+	top: 1786px;
+	width: 171.95px;
+	height: 22.799999999999997px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 22.799999999999997px;
+}
+.contact_contact .ContactUs {
+	position: absolute;
+	left: 360.05px;
+	top: 1467.75px;
+	width: 127.3px;
+	height: 34.199999999999996px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 34.199999999999996px;
+}
+.contact_contact .UsefulLinks {
+	position: absolute;
+	left: 718.1999999999999px;
+	top: 1467.75px;
+	width: 133px;
+	height: 34.199999999999996px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 34.199999999999996px;
+}
+.contact_contact .SocialMedia {
+	position: absolute;
+	left: 1037.3999999999999px;
+	top: 1467.75px;
+	width: 147.25px;
+	height: 34.199999999999996px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 34.199999999999996px;
+}
+.contact_contact .Support {
+	position: absolute;
+	left: 1037.3999999999999px;
+	top: 1601.6999999999998px;
+	width: 92.14999999999999px;
+	height: 34.199999999999996px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 500;
+	line-height: 34.199999999999996px;
+}
+.contact_contact .Address {
+	position: absolute;
+	left: 360.05px;
+	top: 1541.85px;
+	width: 71.25px;
+	height: 25.65px;
+	color: rgba(255,178,178,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 500;
+	line-height: 25.65px;
+}
+.contact_contact .Phone_1 {
+	position: absolute;
+	left: 360.05px;
+	top: 1648.25px;
+	width: 54.15px;
+	height: 25.65px;
+	color: rgba(255,178,178,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 500;
+	line-height: 25.65px;
+}
+.contact_contact .Email_1 {
+	position: absolute;
+	left: 360.05px;
+	top: 1754.6499999999999px;
+	width: 47.5px;
+	height: 25.65px;
+	color: rgba(255,178,178,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 500;
+	line-height: 25.65px;
+}
+.contact_contact .Addresslocation_1 {
+	position: absolute;
+	left: 388.54999999999995px;
+	top: 934.8px;
+	width: 107.35px;
+	height: 51.3px;
+	color: rgba(34,34,34,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 400;
+	line-height: 25.65px;
+}
+.contact_contact ._123456789987654321_1 {
+	position: absolute;
+	left: 623.1999999999999px;
+	top: 934.8px;
+	width: 95.94999999999999px;
+	height: 51.3px;
+	color: rgba(34,34,34,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 400;
+	line-height: 25.65px;
+}
+.contact_contact .namegmailcom_1 {
+	position: absolute;
+	left: 854.05px;
+	top: 934.8px;
+	width: 193.79999999999998px;
+	height: 25.65px;
+	color: rgba(34,34,34,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 400;
+	line-height: 25.65px;
+}
+.contact_contact .Address_1 {
+	position: absolute;
+	left: 388.54999999999995px;
+	top: 896.8px;
+	width: 78.85px;
+	height: 28.5px;
+	color: rgba(255,178,178,1.00);
+	font-family: Poppins;
+	font-size: 19px;
+	font-weight: 500;
+	line-height: 28.5px;
+}
+.contact_contact .Phone_2 {
+	position: absolute;
+	left: 623.1999999999999px;
+	top: 896.8px;
+	width: 59.849999999999994px;
+	height: 28.5px;
+	color: rgba(255,178,178,1.00);
+	font-family: Poppins;
+	font-size: 19px;
+	font-weight: 500;
+	line-height: 28.5px;
+}
+.contact_contact .Email_2 {
+	position: absolute;
+	left: 854.05px;
+	top: 896.8px;
+	width: 53.199999999999996px;
+	height: 28.5px;
+	color: rgba(255,178,178,1.00);
+	font-family: Poppins;
+	font-size: 19px;
+	font-weight: 500;
+	line-height: 28.5px;
+}
+.contact_contact .HOME_1 {
+	position: absolute;
+	left: 718.1999999999999px;
+	top: 1541.85px;
+	width: 49.4px;
+	height: 25.65px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 400;
+	line-height: 25.65px;
+}
+.contact_contact .NEWS_1 {
+	position: absolute;
+	left: 718.1999999999999px;
+	top: 1597.8999999999999px;
+	width: 48.449999999999996px;
+	height: 25.65px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 400;
+	line-height: 25.65px;
+}
+.contact_contact .GALLERY_1 {
+	position: absolute;
+	left: 718.1999999999999px;
+	top: 1653.9499999999998px;
+	width: 69.35px;
+	height: 25.65px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 400;
+	line-height: 25.65px;
+}
+.contact_contact .Contact {
+	position: absolute;
+	left: 1037.3999999999999px;
+	top: 1640.6499999999999px;
+	width: 70.3px;
+	height: 25.65px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 400;
+	line-height: 25.65px;
+}
+.contact_contact .ABOUTUS_1 {
+	position: absolute;
+	left: 718.1999999999999px;
+	top: 1710px;
+	width: 82.64999999999999px;
+	height: 25.65px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 17.099999999999998px;
+	font-weight: 400;
+	line-height: 25.65px;
+}
+.contact_contact .Subtract {
+	position: absolute;
+	left: 1037.3999999999999px;
+	top: 1537.6830810546874px;
+	width: 34.178662109375px;
+	height: 25.039318847656247px;
+}
+.contact_contact .Subtract_1 {
+	position: absolute;
+	left: 1220.3232421875px;
+	top: 1538.3074462890625px;
+	width: 28.024072265624998px;
+	height: 24.1169189453125px;
+}
+.contact_contact .Subtract_2 {
+	position: absolute;
+	left: 1104.8277343749999px;
+	top: 1534.5512817382812px;
+	width: 16.232568359374998px;
+	height: 31.299090576171874px;
+}
+.contact_contact .Subtract_3 {
+	position: absolute;
+	left: 1154.31123046875px;
+	top: 1533.3px;
+	width: 32.762011718749996px;
+	height: 34.18353271484375px;
+}
+.contact_contact .map1 {
+	position: absolute;
+	left: 0px;
+	top: 1081.1px;
+	width: 1436.3999999999999px;
+	height: 280.25px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.contact_contact ._2023AllRightsReservedby {
+	position: absolute;
+	left: 47.5%;
+	top: 1889.55px;
+	transform: translate(-50%, 0);
+	width: 224.2px;
+	height: 22.799999999999997px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 22.799999999999997px;
+}

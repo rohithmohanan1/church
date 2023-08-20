@@ -1,0 +1,443 @@
+
+.Settings_Settings {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(241,241,241,1.00);
+}
+.Settings_Settings .Rectangle532 {
+	position: absolute;
+	left: 0px;
+	top: -0.95px;
+	width: 242.25px;
+	height: 1089.6499999999999px;
+	background: rgba(255,255,255,1.00);
+}
+.Settings_Settings .Rectangle553 {
+	position: absolute;
+	left: 17.099999999999998px;
+	top: 433.2px;
+	width: 209px;
+	height: 38px;
+	background: rgba(36,36,36,1.00);
+	border-radius: 9.5px;
+}
+.Settings_Settings .Rectangle565 {
+	position: absolute;
+	left: 305.9px;
+	top: 155.79999999999998px;
+	width: 1064.95px;
+	height: 190px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 19px;
+}
+.Settings_Settings .dashboard {
+	position: absolute;
+	left: 64.6px;
+	top: 13.595113438045376%;
+	transform: translate(0, -50%);
+	width: 79.8px;
+	height: 26.599999999999998px;
+	color: rgba(255,147,147,1.00);
+	font-family: Inter;
+	font-size: 15.2px;
+	font-weight: 500;
+	line-height: 26.599999999999998px;
+}
+.Settings_Settings .dash {
+	position: absolute;
+	left: 28.5px;
+	top: 146.29999999999998px;
+	width: 19px;
+	height: 19px;
+}
+.Settings_Settings .dash .Fill1 {
+	position: absolute;
+	left: 10.96025390625px;
+	top: 0px;
+	width: 42.314453125%;
+	height: 42.67242431640625%;
+	mix-blend-mode: normal;
+}
+.Settings_Settings .dash .CombinedShape {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Settings_Settings ._3User {
+	position: absolute;
+	left: 28.5px;
+	top: 222.29999999999998px;
+	width: 20.9px;
+	height: 15.2px;
+}
+.Settings_Settings ._3User .Fill1_1 {
+	position: absolute;
+	left: 4.3584960937499995px;
+	top: 10.012921142578124px;
+	width: 57.83025568181818%;
+	height: 34.125518798828125%;
+}
+.Settings_Settings ._3User .Fill3 {
+	position: absolute;
+	left: 6.4013671875px;
+	top: 0px;
+	width: 38.26349431818182%;
+	height: 52.91900634765625%;
+	mix-blend-mode: normal;
+}
+.Settings_Settings ._3User .Fill6 {
+	position: absolute;
+	left: 15.0701171875px;
+	top: 0.6712448120117187px;
+	width: 19.753196022727273%;
+	height: 44.602394104003906%;
+	mix-blend-mode: normal;
+}
+.Settings_Settings ._3User .Fill8 {
+	position: absolute;
+	left: 15.582226562499999px;
+	top: 8.765669250488282px;
+	width: 25.443892045454547%;
+	height: 29.148483276367188%;
+}
+.Settings_Settings ._3User .Fill11 {
+	position: absolute;
+	left: 1.7033203124999998px;
+	top: 0.6715057373046874px;
+	width: 19.744318181818183%;
+	height: 44.602394104003906%;
+	mix-blend-mode: normal;
+}
+.Settings_Settings ._3User .Fill13 {
+	position: absolute;
+	left: 0px;
+	top: 8.76613311767578px;
+	width: 25.443892045454547%;
+	height: 29.143905639648438%;
+}
+.Settings_Settings .Menu {
+	position: absolute;
+	left: 65.55px;
+	top: 20.06108202443281%;
+	transform: translate(0, -50%);
+	width: 54.15px;
+	height: 26.599999999999998px;
+	color: rgba(255,147,147,1.00);
+	font-family: Inter;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 26.599999999999998px;
+}
+.Settings_Settings .Shape {
+	position: absolute;
+	left: 199.5px;
+	top: 224.2px;
+	width: 0.4629629629629629%;
+	height: 1.0471204188481675%;
+}
+.Settings_Settings .Document {
+	position: absolute;
+	left: 28.5px;
+	top: 294.5px;
+	width: 17.099999999999998px;
+	height: 19px;
+}
+.Settings_Settings .Document .Path {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	mix-blend-mode: normal;
+}
+.Settings_Settings .Document .CombinedShape_1 {
+	position: absolute;
+	left: 4.000390625px;
+	top: 4.417494201660156px;
+	width: 52.72352430555556%;
+	height: 53.33206176757812%;
+}
+.Settings_Settings .Menu_1 {
+	position: absolute;
+	left: 63.65px;
+	top: 26.527050610820243%;
+	transform: translate(0, -50%);
+	width: 66.5px;
+	height: 26.599999999999998px;
+	color: rgba(255,147,147,1.00);
+	font-family: Inter;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 26.599999999999998px;
+}
+.Settings_Settings .Shape_1 {
+	position: absolute;
+	left: 199.5px;
+	top: 298.3px;
+	width: 0.4629629629629629%;
+	height: 1.0471204188481675%;
+}
+.Settings_Settings .Filter {
+	position: absolute;
+	left: 30.4px;
+	top: 369.54999999999995px;
+	width: 19px;
+	height: 16.888882446289063px;
+}
+.Settings_Settings .Filter .Fill1_2 {
+	position: absolute;
+	left: 0px;
+	top: 12.310049438476561px;
+	width: 47.958984375%;
+	height: 16.664892831761488%;
+	mix-blend-mode: normal;
+}
+.Settings_Settings .Filter .Fill4 {
+	position: absolute;
+	left: 9.8896484375px;
+	top: 1.8033996582031249px;
+	width: 47.94921875%;
+	height: 16.658713019833762%;
+	mix-blend-mode: normal;
+}
+.Settings_Settings .Filter .Fill6_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 34.384765625%;
+	height: 38.0149414119497%;
+}
+.Settings_Settings .Filter .Fill9 {
+	position: absolute;
+	left: 12.466894531249999px;
+	top: 10.468583679199218px;
+	width: 34.384765625%;
+	height: 38.0149414119497%;
+}
+.Settings_Settings .report {
+	position: absolute;
+	left: 66.5px;
+	top: 32.99301919720768%;
+	transform: translate(0, -50%);
+	width: 81.7px;
+	height: 26.599999999999998px;
+	color: rgba(255,147,147,1.00);
+	font-family: Inter;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 26.599999999999998px;
+}
+.Settings_Settings .Shape_2 {
+	position: absolute;
+	left: 200.92499999999998px;
+	top: 372.4px;
+	width: 0.4629629629629629%;
+	height: 1.0471204188481675%;
+}
+.Settings_Settings .Path_1 {
+	position: absolute;
+	left: 34.77890625px;
+	top: 449.52110900878904px;
+	width: 0.38184110449735453%;
+	height: 0.49301866461469235%;
+}
+.Settings_Settings .Path_2 {
+	position: absolute;
+	left: 28.5px;
+	top: 442.70011596679683px;
+	width: 1.2566137566137565%;
+	height: 1.7452006980802792%;
+	mix-blend-mode: normal;
+}
+.Settings_Settings .Menu_2 {
+	position: absolute;
+	left: 64.125px;
+	top: 39.458987783595106%;
+	transform: translate(0, -50%);
+	width: 59.849999999999994px;
+	height: 26.599999999999998px;
+	color: rgba(255,147,147,1.00);
+	font-family: Inter;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 26.599999999999998px;
+}
+.Settings_Settings .Shape_3 {
+	position: absolute;
+	left: 199.5px;
+	top: 446.5px;
+	width: 0.4629629629629629%;
+	height: 1.0471204188481675%;
+}
+.Settings_Settings .Rectangle533 {
+	position: absolute;
+	left: 0px;
+	top: -0.95px;
+	width: 1436.3999999999999px;
+	height: 95px;
+	background: rgba(255,255,255,1.00);
+}
+.Settings_Settings .LOGO {
+	position: absolute;
+	left: 4.1782407407407405%;
+	top: 29.45px;
+	transform: translate(-50%, 0);
+	width: 65.55px;
+	height: 34.199999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 22.799999999999997px;
+	font-weight: 900;
+	line-height: 34.199999999999996px;
+}
+.Settings_Settings .IconlyBulkNotification {
+	position: absolute;
+	left: 1192.25px;
+	top: 35.625px;
+	width: 1.5873015873015872%;
+	height: 2.094240837696335%;
+}
+.Settings_Settings .IconlyBulkNotification .Notification {
+	position: absolute;
+	left: 3.3249999999999997px;
+	top: 1.9px;
+	width: 16.15px;
+	height: 19px;
+}
+.Settings_Settings .IconlyBulkNotification .Notification .Fill1_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 79.96654510498047%;
+}
+.Settings_Settings .IconlyBulkNotification .Notification .Fill4_1 {
+	position: absolute;
+	left: 5.29365234375px;
+	top: 16.29087791442871px;
+	width: 34.260110294117645%;
+	height: 14.258537292480469%;
+	mix-blend-mode: normal;
+}
+.Settings_Settings .IconlyBulkMessage {
+	position: absolute;
+	left: 1230.25px;
+	top: 35.625px;
+	width: 1.5873015873015872%;
+	height: 2.094240837696335%;
+}
+.Settings_Settings .IconlyBulkMessage .Group {
+	position: absolute;
+	left: 1.9px;
+	top: 2.849623107910156px;
+	width: 19px;
+	height: 17.10057258605957px;
+}
+.Settings_Settings .IconlyBulkMessage .Group .Fill1_4 {
+	position: absolute;
+	left: 0px;
+	top: 5.5076038360595705px;
+	width: 100%;
+	height: 67.79286887417219%;
+	mix-blend-mode: normal;
+}
+.Settings_Settings .IconlyBulkMessage .Group .Fill4_2 {
+	position: absolute;
+	left: 0.4787109375px;
+	top: 0px;
+	width: 95.37109375%;
+	height: 57.33141192052981%;
+}
+.Settings_Settings .User {
+	position: absolute;
+	left: 1268.25px;
+	top: 25.65px;
+	width: 102.6px;
+	height: 42.75px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.Settings_Settings .User .BearedGuy02min1 {
+	position: relative;
+	flex: none;
+	margin-right: 15.2px;
+	width: 42.75px;
+	height: 42.75px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 28.5px;
+}
+.Settings_Settings .User .Frame270 {
+	position: relative;
+	flex: none;
+	margin-right: 15.2px;
+	width: 44.65px;
+	height: 26.599999999999998px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Settings_Settings .User .Frame270 .AustinRobertson {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 100%;
+	height: 26.599999999999998px;
+	color: rgba(35,45,66,1.00);
+	font-family: Inter;
+	font-size: 15.2px;
+	font-weight: 400;
+	line-height: 26.599999999999998px;
+}
+.Settings_Settings .User_1 {
+	position: absolute;
+	left: 353.4px;
+	top: 190.95px;
+	width: 234.33642578125px;
+	height: 119.60954589843749px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+}
+.Settings_Settings .User_1 .BearedGuy02min1_1 {
+	position: relative;
+	flex: none;
+	margin-right: 42.527814865112305px;
+	width: 119.60908203125px;
+	height: 119.60954589843749px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 79.73965377807617px;
+}
+.Settings_Settings .User_1 .Frame270_1 {
+	position: relative;
+	flex: none;
+	margin-right: 42.527814865112305px;
+	width: 72.2px;
+	height: 41.8px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Settings_Settings .User_1 .Frame270_1 .AustinRobertson_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 100%;
+	height: 41.8px;
+	color: rgba(35,45,66,1.00);
+	font-family: Inter;
+	font-size: 23.75px;
+	font-weight: 400;
+	line-height: 41.5625px;
+}
